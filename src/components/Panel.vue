@@ -1,6 +1,6 @@
 <template>
   <div class="formPanel actions">
-    <p id="noneSelected" class="formContent">No items selected.</p>
+    <p id="noneSelected" class="formContent">No items selected. Next val: {{ nextVal }}</p>
     <p id="multiSelected" class="formContent">Multiple items are selected.</p>
     <form id="singleSelected" class="formContent form-horizontal">+
        <div class="form-group">
@@ -35,8 +35,16 @@
 </template>
 
 <script>
+import Lablr from 'page-label-generator'
+var gen = Lablr.pageLabelGenerator()
+
 export default {
-  name: 'panel'
+  name: 'panel',
+  computed: {
+    nextVal () {
+      return gen.next().value
+    }
+  }
 }
 </script>
 
