@@ -13,7 +13,7 @@
       </div>
     </div>
     <div class="img_gallery">
-      <div class="thumbnail" v-for="thumbnail in thumbnails" :key="thumbnail.id">
+      <div @click.capture="select(thumbnail.id, $event)" class="thumbnail" v-bind:class="{ selected: isSelected(thumbnail) }" v-for="thumbnail in thumbnails" :key="thumbnail.id">
         <img :src="thumbnail.url" class="thumb">
         <div class="caption">
           {{thumbnail.label}}
@@ -29,6 +29,19 @@ export default {
   computed: {
     thumbnails () {
       return this.$store.state.images
+    }
+  },
+  methods: {
+    select: function (id, event) {
+      console.log(event)
+      this.$store.dispatch('handleSelect', id)
+    },
+    isSelected: function (thumbnail) {
+      if (this.$store.state.selected.indexOf(thumbnail) > -1) {
+        return true
+      } else {
+        return false
+      }
     }
   }
 }
