@@ -12,23 +12,37 @@
         <i class="fa fa-image fa-lg"></i>
       </div>
     </div>
-    <div class="img_gallery">
-      <div @click.capture="select(thumbnail.id, $event)" class="thumbnail" v-bind:class="{ selected: isSelected(thumbnail) }" v-for="thumbnail in thumbnails" :key="thumbnail.id">
-        <img :src="thumbnail.url" class="thumb">
-        <div class="caption">
-          {{thumbnail.label}}
+    <draggable v-model="thumbnails">
+      <transition-group tag="div" name="list-complete" class="img_gallery">
+        <div @click.capture="select(thumbnail.id, $event)" class="thumbnail" v-bind:class="{ selected: isSelected(thumbnail) }" v-for="thumbnail in thumbnails" :key="thumbnail.id">
+          <img :src="thumbnail.url" class="thumb">
+          <div class="caption">
+            {{thumbnail.label}}
+          </div>
         </div>
-      </div>
-    </div>
+      </transition-group>
+    </draggable>
   </div>
 </template>
 
 <script>
+import draggable from 'vuedraggable'
 export default {
   name: 'thumbnails',
+  components: {
+    draggable
+  },
   computed: {
-    thumbnails () {
-      return this.$store.state.images
+    // thumbnails () {
+    //   return this.$store.state.images
+    // },
+    thumbnails: {
+      get () {
+        return this.$store.state.images
+      },
+      set (value) {
+        this.$store.dispatch('sortImages', value)
+      }
     }
   },
   methods: {
