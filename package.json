@@ -17,6 +17,7 @@
     "babel-polyfill": "^6.26.0",
     "page-label-generator": "^1.0.4",
     "vue": "^2.4.2",
+    "vuedraggable": "^2.14.1",
     "vuex": "^2.4.1"
   },
   "devDependencies": {

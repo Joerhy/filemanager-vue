@@ -20,6 +20,9 @@ const mutations = {
   SELECT (state, id) {
     state.selected = []
     state.selected.push(getImageById(id))
+  },
+  SORT (state, value) {
+    state.images = [ ...value ]
   }
 }
 
@@ -31,6 +34,9 @@ const actions = {
   },
   handleSelect (context, id) {
     context.commit('SELECT', id)
+  },
+  sortImages (context, value) {
+    context.commit('SORT', value)
   }
 }
 
