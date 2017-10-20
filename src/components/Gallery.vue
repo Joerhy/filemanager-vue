@@ -12,15 +12,13 @@
         <i class="fa fa-image fa-lg"></i>
       </div>
     </div>
-    <draggable v-model="thumbnails">
-      <transition-group tag="div" name="list-complete" class="img_gallery">
+    <draggable v-model="thumbnails" tag="div" name="list-complete" class="img_gallery">
         <div @click.capture="select(thumbnail.id, $event)" class="thumbnail" v-bind:class="{ selected: isSelected(thumbnail) }" v-for="thumbnail in thumbnails" :key="thumbnail.id">
           <img :src="thumbnail.url" class="thumb">
           <div class="caption">
             {{thumbnail.label}}
           </div>
         </div>
-      </transition-group>
     </draggable>
   </div>
 </template>
@@ -33,9 +31,6 @@ export default {
     draggable
   },
   computed: {
-    // thumbnails () {
-    //   return this.$store.state.images
-    // },
     thumbnails: {
       get () {
         return this.$store.state.images
