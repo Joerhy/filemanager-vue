@@ -1,11 +1,14 @@
-var img_collection = [
+/* eslint-disable key-spacing */
+/* eslint-disable quotes */
+/* eslint-disable comma-spacing */
+var ImageCollection = [
   {
     "id": "pww72cx50n",
     "label": "upper cover. outside",
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pw%2Fw7%2F2c%2Fx5%2F0n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pw%2Fw7%2F2c%2Fx5%2F0n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pjd474f415",
@@ -13,7 +16,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pj%2Fd4%2F74%2Ff4%2F15-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pj%2Fd4%2F74%2Ff4%2F15-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pj9603m230",
@@ -21,7 +24,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pj%2F96%2F03%2Fm2%2F30-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pj%2F96%2F03%2Fm2%2F30-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "psq87dd69k",
@@ -29,7 +32,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ps%2Fq8%2F7d%2Fd6%2F9k-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ps%2Fq8%2F7d%2Fd6%2F9k-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pm900qf853",
@@ -37,7 +40,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2F90%2F0q%2Ff8%2F53-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2F90%2F0q%2Ff8%2F53-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pr494x497r",
@@ -45,7 +48,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2F49%2F4x%2F49%2F7r-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2F49%2F4x%2F49%2F7r-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pd791v3025",
@@ -53,7 +56,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2F79%2F1v%2F30%2F25-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2F79%2F1v%2F30%2F25-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p2v23xd755",
@@ -61,7 +64,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p2%2Fv2%2F3x%2Fd7%2F55-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p2%2Fv2%2F3x%2Fd7%2F55-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pmg74s6822",
@@ -69,7 +72,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2Fg7%2F4s%2F68%2F22-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2Fg7%2F4s%2F68%2F22-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pt722jw125",
@@ -77,7 +80,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2F72%2F2j%2Fw1%2F25-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2F72%2F2j%2Fw1%2F25-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pgx41p454w",
@@ -85,7 +88,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2Fx4%2F1p%2F45%2F4w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2Fx4%2F1p%2F45%2F4w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "prn302m65j",
@@ -93,7 +96,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2Fn3%2F02%2Fm6%2F5j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2Fn3%2F02%2Fm6%2F5j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5q47t7814",
@@ -101,7 +104,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2Fq4%2F7t%2F78%2F14-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2Fq4%2F7t%2F78%2F14-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pqv33tj159",
@@ -109,7 +112,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pq%2Fv3%2F3t%2Fj1%2F59-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pq%2Fv3%2F3t%2Fj1%2F59-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1c18g215m",
@@ -117,7 +120,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2Fc1%2F8g%2F21%2F5m-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2Fc1%2F8g%2F21%2F5m-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pjd474f42g",
@@ -125,7 +128,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pj%2Fd4%2F74%2Ff4%2F2g-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pj%2Fd4%2F74%2Ff4%2F2g-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pwp98b456f",
@@ -133,7 +136,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pw%2Fp9%2F8b%2F45%2F6f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pw%2Fp9%2F8b%2F45%2F6f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pcf95kw31t",
@@ -141,7 +144,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2Ff9%2F5k%2Fw3%2F1t-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2Ff9%2F5k%2Fw3%2F1t-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ppn89fs24q",
@@ -149,7 +152,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pp%2Fn8%2F9f%2Fs2%2F4q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pp%2Fn8%2F9f%2Fs2%2F4q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pks65jz88p",
@@ -157,7 +160,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pk%2Fs6%2F5j%2Fz8%2F8p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pk%2Fs6%2F5j%2Fz8%2F8p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p6h442b086",
@@ -165,7 +168,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p6%2Fh4%2F42%2Fb0%2F86-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p6%2Fh4%2F42%2Fb0%2F86-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ph128q079j",
@@ -173,7 +176,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ph%2F12%2F8q%2F07%2F9j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ph%2F12%2F8q%2F07%2F9j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8623kh70q",
@@ -181,7 +184,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2F62%2F3k%2Fh7%2F0q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2F62%2F3k%2Fh7%2F0q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pdf65wv09r",
@@ -189,7 +192,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2Ff6%2F5w%2Fv0%2F9r-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2Ff6%2F5w%2Fv0%2F9r-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pcv43qg28v",
@@ -197,7 +200,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2Fv4%2F3q%2Fg2%2F8v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2Fv4%2F3q%2Fg2%2F8v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pfx71c740k",
@@ -205,7 +208,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pf%2Fx7%2F1c%2F74%2F0k-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pf%2Fx7%2F1c%2F74%2F0k-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "prf560t23j",
@@ -213,7 +216,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2Ff5%2F60%2Ft2%2F3j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2Ff5%2F60%2Ft2%2F3j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pdb78vx21f",
@@ -221,7 +224,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2Fb7%2F8v%2Fx2%2F1f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2Fb7%2F8v%2Fx2%2F1f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p3b592t826",
@@ -229,7 +232,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p3%2Fb5%2F92%2Ft8%2F26-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p3%2Fb5%2F92%2Ft8%2F26-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pmg74s683c",
@@ -237,7 +240,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2Fg7%2F4s%2F68%2F3c-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2Fg7%2F4s%2F68%2F3c-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p6q184585k",
@@ -245,7 +248,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p6%2Fq1%2F84%2F58%2F5k-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p6%2Fq1%2F84%2F58%2F5k-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "prv044c477",
@@ -253,7 +256,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2Fv0%2F44%2Fc4%2F77-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2Fv0%2F44%2Fc4%2F77-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p0r968p962",
@@ -261,7 +264,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2Fr9%2F68%2Fp9%2F62-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2Fr9%2F68%2Fp9%2F62-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p08614760p",
@@ -269,7 +272,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2F86%2F14%2F76%2F0p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2F86%2F14%2F76%2F0p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pqv33tj16m",
@@ -277,7 +280,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pq%2Fv3%2F3t%2Fj1%2F6m-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pq%2Fv3%2F3t%2Fj1%2F6m-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pcn69nq847",
@@ -285,7 +288,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2Fn6%2F9n%2Fq8%2F47-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2Fn6%2F9n%2Fq8%2F47-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p4j03fj380",
@@ -293,7 +296,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p4%2Fj0%2F3f%2Fj3%2F80-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p4%2Fj0%2F3f%2Fj3%2F80-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p3t947b22b",
@@ -301,7 +304,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p3%2Ft9%2F47%2Fb2%2F2b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p3%2Ft9%2F47%2Fb2%2F2b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "px346fp449",
@@ -309,7 +312,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/px%2F34%2F6f%2Fp4%2F49-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/px%2F34%2F6f%2Fp4%2F49-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pmc87r9078",
@@ -317,7 +320,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2Fc8%2F7r%2F90%2F78-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2Fc8%2F7r%2F90%2F78-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pdn39zm518",
@@ -325,7 +328,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2Fn3%2F9z%2Fm5%2F18-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2Fn3%2F9z%2Fm5%2F18-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1n79jr08b",
@@ -333,7 +336,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2Fn7%2F9j%2Fr0%2F8b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2Fn7%2F9j%2Fr0%2F8b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8g84p6597",
@@ -341,7 +344,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2Fg8%2F4p%2F65%2F97-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2Fg8%2F4p%2F65%2F97-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p34851323p",
@@ -349,7 +352,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p3%2F48%2F51%2F32%2F3p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p3%2F48%2F51%2F32%2F3p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pz316rp59n",
@@ -357,7 +360,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pz%2F31%2F6r%2Fp5%2F9n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pz%2F31%2F6r%2Fp5%2F9n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9p291w755",
@@ -365,7 +368,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fp2%2F91%2Fw7%2F55-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fp2%2F91%2Fw7%2F55-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1z40nc73n",
@@ -373,7 +376,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2Fz4%2F0n%2Fc7%2F3n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2Fz4%2F0n%2Fc7%2F3n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8g84p660q",
@@ -381,7 +384,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2Fg8%2F4p%2F66%2F0q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2Fg8%2F4p%2F66%2F0q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pt435j017s",
@@ -389,7 +392,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2F43%2F5j%2F01%2F7s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2F43%2F5j%2F01%2F7s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pr207w849t",
@@ -397,7 +400,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2F20%2F7w%2F84%2F9t-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2F20%2F7w%2F84%2F9t-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pjm2168734",
@@ -405,7 +408,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pj%2Fm2%2F16%2F87%2F34-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pj%2Fm2%2F16%2F87%2F34-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pm039mr251",
@@ -413,7 +416,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2F03%2F9m%2Fr2%2F51-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2F03%2F9m%2Fr2%2F51-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ppz50jg48x",
@@ -421,7 +424,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pp%2Fz5%2F0j%2Fg4%2F8x-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pp%2Fz5%2F0j%2Fg4%2F8x-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pqv33tj17x",
@@ -429,7 +432,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pq%2Fv3%2F3t%2Fj1%2F7x-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pq%2Fv3%2F3t%2Fj1%2F7x-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p00001h95j",
@@ -437,7 +440,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2F00%2F01%2Fh9%2F5j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2F00%2F01%2Fh9%2F5j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p76538m09s",
@@ -445,7 +448,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2F65%2F38%2Fm0%2F9s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2F65%2F38%2Fm0%2F9s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pm900qf89b",
@@ -453,7 +456,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2F90%2F0q%2Ff8%2F9b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2F90%2F0q%2Ff8%2F9b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pgt54n6742",
@@ -461,7 +464,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2Ft5%2F4n%2F67%2F42-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2Ft5%2F4n%2F67%2F42-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pqf85px69j",
@@ -469,7 +472,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pq%2Ff8%2F5p%2Fx6%2F9j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pq%2Ff8%2F5p%2Fx6%2F9j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pr494x4982",
@@ -477,7 +480,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2F49%2F4x%2F49%2F82-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2F49%2F4x%2F49%2F82-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p2z10z9651",
@@ -485,7 +488,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p2%2Fz1%2F0z%2F96%2F51-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p2%2Fz1%2F0z%2F96%2F51-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pjh345b84b",
@@ -493,7 +496,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pj%2Fh3%2F45%2Fb8%2F4b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pj%2Fh3%2F45%2Fb8%2F4b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pj6732p96g",
@@ -501,7 +504,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pj%2F67%2F32%2Fp9%2F6g-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pj%2F67%2F32%2Fp9%2F6g-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pr781z2857",
@@ -509,7 +512,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2F78%2F1z%2F28%2F57-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2F78%2F1z%2F28%2F57-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p7h14c908g",
@@ -517,7 +520,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2Fh1%2F4c%2F90%2F8g-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2Fh1%2F4c%2F90%2F8g-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "psn00cj334",
@@ -525,7 +528,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ps%2Fn0%2F0c%2Fj3%2F34-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ps%2Fn0%2F0c%2Fj3%2F34-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pjd474f43s",
@@ -533,7 +536,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pj%2Fd4%2F74%2Ff4%2F3s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pj%2Fd4%2F74%2Ff4%2F3s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p3f463q99s",
@@ -541,7 +544,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p3%2Ff4%2F63%2Fq9%2F9s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p3%2Ff4%2F63%2Fq9%2F9s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p7m01d688t",
@@ -549,7 +552,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2Fm0%2F1d%2F68%2F8t-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2Fm0%2F1d%2F68%2F8t-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "prx915946k",
@@ -557,7 +560,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2Fx9%2F15%2F94%2F6k-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2Fx9%2F15%2F94%2F6k-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pkk91h4809",
@@ -565,7 +568,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pk%2Fk9%2F1h%2F48%2F09-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pk%2Fk9%2F1h%2F48%2F09-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pjh345b85n",
@@ -573,7 +576,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pj%2Fh3%2F45%2Fb8%2F5n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pj%2Fh3%2F45%2Fb8%2F5n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pc247gc12v",
@@ -581,7 +584,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2F24%2F7g%2Fc1%2F2v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2F24%2F7g%2Fc1%2F2v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pcc08k109h",
@@ -589,7 +592,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2Fc0%2F8k%2F10%2F9h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2Fc0%2F8k%2F10%2F9h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pgq67mb41d",
@@ -597,7 +600,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2Fq6%2F7m%2Fb4%2F1d-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2Fq6%2F7m%2Fb4%2F1d-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p6682zq15v",
@@ -605,7 +608,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p6%2F68%2F2z%2Fq1%2F5v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p6%2F68%2F2z%2Fq1%2F5v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p0p097t662",
@@ -613,7 +616,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2Fp0%2F97%2Ft6%2F62-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2Fp0%2F97%2Ft6%2F62-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pkk91h481m",
@@ -621,7 +624,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pk%2Fk9%2F1h%2F48%2F1m-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pk%2Fk9%2F1h%2F48%2F1m-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p2227p9070",
@@ -629,7 +632,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p2%2F22%2F7p%2F90%2F70-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p2%2F22%2F7p%2F90%2F70-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pt722jw14s",
@@ -637,7 +640,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2F72%2F2j%2Fw1%2F4s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2F72%2F2j%2Fw1%2F4s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "psj13bm281",
@@ -645,7 +648,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ps%2Fj1%2F3b%2Fm2%2F81-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ps%2Fj1%2F3b%2Fm2%2F81-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pc821j374x",
@@ -653,7 +656,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2F82%2F1j%2F37%2F4x-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2F82%2F1j%2F37%2F4x-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pft84b9523",
@@ -661,7 +664,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pf%2Ft8%2F4b%2F95%2F23-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pf%2Ft8%2F4b%2F95%2F23-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pxk81m5202",
@@ -669,7 +672,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/px%2Fk8%2F1m%2F52%2F02-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/px%2Fk8%2F1m%2F52%2F02-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9k421134g",
@@ -677,7 +680,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fk4%2F21%2F13%2F4g-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fk4%2F21%2F13%2F4g-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ptq57qb984",
@@ -685,7 +688,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2Fq5%2F7q%2Fb9%2F84-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2Fq5%2F7q%2Fb9%2F84-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1831f563n",
@@ -693,7 +696,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2F83%2F1f%2F56%2F3n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2F83%2F1f%2F56%2F3n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p4455b063k",
@@ -701,7 +704,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p4%2F45%2F5b%2F06%2F3k-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p4%2F45%2F5b%2F06%2F3k-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pdz012882r",
@@ -709,7 +712,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2Fz0%2F12%2F88%2F2r-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2Fz0%2F12%2F88%2F2r-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pj0990w25z",
@@ -717,7 +720,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pj%2F09%2F90%2Fw2%2F5z-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pj%2F09%2F90%2Fw2%2F5z-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pg158d283x",
@@ -725,7 +728,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2F15%2F8d%2F28%2F3x-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2F15%2F8d%2F28%2F3x-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pr207w8509",
@@ -733,7 +736,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2F20%2F7w%2F85%2F09-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2F20%2F7w%2F85%2F09-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p7d27bd741",
@@ -741,7 +744,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2Fd2%2F7b%2Fd7%2F41-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2Fd2%2F7b%2Fd7%2F41-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pws85c2321",
@@ -749,7 +752,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pw%2Fs8%2F5c%2F23%2F21-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pw%2Fs8%2F5c%2F23%2F21-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5x21w127m",
@@ -757,7 +760,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2Fx2%2F1w%2F12%2F7m-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2Fx2%2F1w%2F12%2F7m-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pj6732p97s",
@@ -765,7 +768,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pj%2F67%2F32%2Fp9%2F7s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pj%2F67%2F32%2Fp9%2F7s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8623kh72b",
@@ -773,7 +776,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2F62%2F3k%2Fh7%2F2b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2F62%2F3k%2Fh7%2F2b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "psq87dd72p",
@@ -781,7 +784,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ps%2Fq8%2F7d%2Fd7%2F2p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ps%2Fq8%2F7d%2Fd7%2F2p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pbn99bt41d",
@@ -789,7 +792,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2Fn9%2F9b%2Ft4%2F1d-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2Fn9%2F9b%2Ft4%2F1d-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8910mf375",
@@ -797,7 +800,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2F91%2F0m%2Ff3%2F75-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2F91%2F0m%2Ff3%2F75-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pxw42pt90j",
@@ -805,7 +808,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/px%2Fw4%2F2p%2Ft9%2F0j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/px%2Fw4%2F2p%2Ft9%2F0j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pmg74s684p",
@@ -813,7 +816,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2Fg7%2F4s%2F68%2F4p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2Fg7%2F4s%2F68%2F4p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pws85c233b",
@@ -821,7 +824,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pw%2Fs8%2F5c%2F23%2F3b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pw%2Fs8%2F5c%2F23%2F3b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pcv43qg295",
@@ -829,7 +832,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2Fv4%2F3q%2Fg2%2F95-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2Fv4%2F3q%2Fg2%2F95-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8w32ss12w",
@@ -837,7 +840,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2Fw3%2F2s%2Fs1%2F2w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2Fw3%2F2s%2Fs1%2F2w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pg732fw748",
@@ -845,7 +848,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2F73%2F2f%2Fw7%2F48-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2F73%2F2f%2Fw7%2F48-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9593wd966",
@@ -853,7 +856,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2F59%2F3w%2Fd9%2F66-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2F59%2F3w%2Fd9%2F66-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pws85c234n",
@@ -861,7 +864,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pw%2Fs8%2F5c%2F23%2F4n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pw%2Fs8%2F5c%2F23%2F4n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pqn59rp845",
@@ -869,7 +872,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pq%2Fn5%2F9r%2Fp8%2F45-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pq%2Fn5%2F9r%2Fp8%2F45-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pjm216874f",
@@ -877,7 +880,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pj%2Fm2%2F16%2F87%2F4f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pj%2Fm2%2F16%2F87%2F4f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p2b88rw956",
@@ -885,7 +888,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p2%2Fb8%2F8r%2Fw9%2F56-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p2%2Fb8%2F8r%2Fw9%2F56-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "prn302m66v",
@@ -893,7 +896,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2Fn3%2F02%2Fm6%2F6v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2Fn3%2F02%2Fm6%2F6v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pxd07jc50b",
@@ -901,7 +904,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/px%2Fd0%2F7j%2Fc5%2F0b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/px%2Fd0%2F7j%2Fc5%2F0b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ph415qv427",
@@ -909,7 +912,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ph%2F41%2F5q%2Fv4%2F27-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ph%2F41%2F5q%2Fv4%2F27-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pw6635p26q",
@@ -917,7 +920,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pw%2F66%2F35%2Fp2%2F6q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pw%2F66%2F35%2Fp2%2F6q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ppz50jg50q",
@@ -925,7 +928,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pp%2Fz5%2F0j%2Fg5%2F0q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pp%2Fz5%2F0j%2Fg5%2F0q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "prr173h67w",
@@ -933,7 +936,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2Fr1%2F73%2Fh6%2F7w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2Fr1%2F73%2Fh6%2F7w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pd504t644g",
@@ -941,7 +944,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2F50%2F4t%2F64%2F4g-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2F50%2F4t%2F64%2F4g-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pht24z5061",
@@ -949,7 +952,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ph%2Ft2%2F4z%2F50%2F61-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ph%2Ft2%2F4z%2F50%2F61-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ppc28c401d",
@@ -957,7 +960,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pp%2Fc2%2F8c%2F40%2F1d-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pp%2Fc2%2F8c%2F40%2F1d-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p69700m81v",
@@ -965,7 +968,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p6%2F97%2F00%2Fm8%2F1v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p6%2F97%2F00%2Fm8%2F1v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pkd17fd460",
@@ -973,7 +976,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pk%2Fd1%2F7f%2Fd4%2F60-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pk%2Fd1%2F7f%2Fd4%2F60-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pnk324128m",
@@ -981,7 +984,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pn%2Fk3%2F24%2F12%2F8m-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pn%2Fk3%2F24%2F12%2F8m-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "prx915947w",
@@ -989,7 +992,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2Fx9%2F15%2F94%2F7w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2Fx9%2F15%2F94%2F7w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p4742bw78b",
@@ -997,7 +1000,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p4%2F74%2F2b%2Fw7%2F8b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p4%2F74%2F2b%2Fw7%2F8b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1257cc36g",
@@ -1005,7 +1008,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2F25%2F7c%2Fc3%2F6g-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2F25%2F7c%2Fc3%2F6g-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pvt152416d",
@@ -1013,7 +1016,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pv%2Ft1%2F52%2F41%2F6d-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pv%2Ft1%2F52%2F41%2F6d-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p0k226w054",
@@ -1021,7 +1024,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2Fk2%2F26%2Fw0%2F54-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2Fk2%2F26%2Fw0%2F54-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pwh248b14k",
@@ -1029,7 +1032,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pw%2Fh2%2F48%2Fb1%2F4k-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pw%2Fh2%2F48%2Fb1%2F4k-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8s45rw507",
@@ -1037,7 +1040,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2Fs4%2F5r%2Fw5%2F07-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2Fs4%2F5r%2Fw5%2F07-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "psx61g675w",
@@ -1045,7 +1048,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ps%2Fx6%2F1g%2F67%2F5w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ps%2Fx6%2F1g%2F67%2F5w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pbr86cp51k",
@@ -1053,7 +1056,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2Fr8%2F6c%2Fp5%2F1k-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2Fr8%2F6c%2Fp5%2F1k-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "phh63vg839",
@@ -1061,7 +1064,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ph%2Fh6%2F3v%2Fg8%2F39-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ph%2Fh6%2F3v%2Fg8%2F39-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9019tn723",
@@ -1069,7 +1072,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2F01%2F9t%2Fn7%2F23-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2F01%2F9t%2Fn7%2F23-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pf18835998",
@@ -1077,7 +1080,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pf%2F18%2F83%2F59%2F98-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pf%2F18%2F83%2F59%2F98-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p6t055143r",
@@ -1085,7 +1088,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p6%2Ft0%2F55%2F14%2F3r-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p6%2Ft0%2F55%2F14%2F3r-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p7h14c909s",
@@ -1093,7 +1096,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2Fh1%2F4c%2F90%2F9s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2Fh1%2F4c%2F90%2F9s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9k421135s",
@@ -1101,7 +1104,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fk4%2F21%2F13%2F5s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fk4%2F21%2F13%2F5s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pth83nk59q",
@@ -1109,7 +1112,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2Fh8%2F3n%2Fk5%2F9q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2Fh8%2F3n%2Fk5%2F9q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pv405tv76g",
@@ -1117,7 +1120,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pv%2F40%2F5t%2Fv7%2F6g-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pv%2F40%2F5t%2Fv7%2F6g-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5138m0487",
@@ -1125,7 +1128,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2F13%2F8m%2F04%2F87-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2F13%2F8m%2F04%2F87-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p70796t236",
@@ -1133,7 +1136,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2F07%2F96%2Ft2%2F36-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2F07%2F96%2Ft2%2F36-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "prj431q68b",
@@ -1141,7 +1144,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2Fj4%2F31%2Fq6%2F8b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2Fj4%2F31%2Fq6%2F8b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p6108wx80p",
@@ -1149,7 +1152,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p6%2F10%2F8w%2Fx8%2F0p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p6%2F10%2F8w%2Fx8%2F0p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pxs55nx82r",
@@ -1157,7 +1160,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/px%2Fs5%2F5n%2Fx8%2F2r-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/px%2Fs5%2F5n%2Fx8%2F2r-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "px920hg986",
@@ -1165,7 +1168,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/px%2F92%2F0h%2Fg9%2F86-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/px%2F92%2F0h%2Fg9%2F86-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "png453446d",
@@ -1173,7 +1176,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pn%2Fg4%2F53%2F44%2F6d-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pn%2Fg4%2F53%2F44%2F6d-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1c18g218j",
@@ -1181,7 +1184,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2Fc1%2F8g%2F21%2F8j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2Fc1%2F8g%2F21%2F8j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pbc388547f",
@@ -1189,7 +1192,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2Fc3%2F88%2F54%2F7f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2Fc3%2F88%2F54%2F7f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pnc5826597",
@@ -1197,7 +1200,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pn%2Fc5%2F82%2F65%2F97-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pn%2Fc5%2F82%2F65%2F97-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pbc388548r",
@@ -1205,7 +1208,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2Fc3%2F88%2F54%2F8r-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2Fc3%2F88%2F54%2F8r-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pnp194x078",
@@ -1213,7 +1216,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pn%2Fp1%2F94%2Fx0%2F78-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pn%2Fp1%2F94%2Fx0%2F78-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "psn00cj34f",
@@ -1221,7 +1224,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ps%2Fn0%2F0c%2Fj3%2F4f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ps%2Fn0%2F0c%2Fj3%2F4f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1257cc37s",
@@ -1229,7 +1232,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2F25%2F7c%2Fc3%2F7s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2F25%2F7c%2Fc3%2F7s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p3r076f668",
@@ -1237,7 +1240,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p3%2Fr0%2F76%2Ff6%2F68-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p3%2Fr0%2F76%2Ff6%2F68-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pzg64w6110",
@@ -1245,7 +1248,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pz%2Fg6%2F4w%2F61%2F10-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pz%2Fg6%2F4w%2F61%2F10-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p2514q615s",
@@ -1253,7 +1256,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p2%2F51%2F4q%2F61%2F5s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p2%2F51%2F4q%2F61%2F5s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p0r968p98p",
@@ -1261,7 +1264,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2Fr9%2F68%2Fp9%2F8p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2Fr9%2F68%2Fp9%2F8p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1r66kk95j",
@@ -1269,7 +1272,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2Fr6%2F6k%2Fk9%2F5j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2Fr6%2F6k%2Fk9%2F5j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8623kh73n",
@@ -1277,7 +1280,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2F62%2F3k%2Fh7%2F3n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2F62%2F3k%2Fh7%2F3n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pdv141d29c",
@@ -1285,7 +1288,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2Fv1%2F41%2Fd2%2F9c-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2Fv1%2F41%2Fd2%2F9c-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pmk61t2749",
@@ -1293,7 +1296,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2Fk6%2F1t%2F27%2F49-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2Fk6%2F1t%2F27%2F49-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pbr86cp536",
@@ -1301,7 +1304,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2Fr8%2F6c%2Fp5%2F36-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2Fr8%2F6c%2Fp5%2F36-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8049hr148",
@@ -1309,7 +1312,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2F04%2F9h%2Fr1%2F48-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2F04%2F9h%2Fr1%2F48-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pgq67mb42q",
@@ -1317,7 +1320,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2Fq6%2F7m%2Fb4%2F2q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2Fq6%2F7m%2Fb4%2F2q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p79409h26j",
@@ -1325,7 +1328,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2F94%2F09%2Fh2%2F6j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2F94%2F09%2Fh2%2F6j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pf18836007",
@@ -1333,7 +1336,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pf%2F18%2F83%2F60%2F07-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pf%2F18%2F83%2F60%2F07-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pgm80kf60x",
@@ -1341,7 +1344,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2Fm8%2F0k%2Ff6%2F0x-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2Fm8%2F0k%2Ff6%2F0x-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5m60sc75m",
@@ -1349,7 +1352,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2Fm6%2F0s%2Fc7%2F5m-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2Fm6%2F0s%2Fc7%2F5m-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pbv73dh887",
@@ -1357,7 +1360,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2Fv7%2F3d%2Fh8%2F87-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2Fv7%2F3d%2Fh8%2F87-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pg445f094w",
@@ -1365,7 +1368,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2F44%2F5f%2F09%2F4w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2F44%2F5f%2F09%2F4w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5q47t783r",
@@ -1373,7 +1376,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2Fq4%2F7t%2F78%2F3r-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2Fq4%2F7t%2F78%2F3r-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pfb495v52s",
@@ -1381,7 +1384,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pf%2Fb4%2F95%2Fv5%2F2s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pf%2Fb4%2F95%2Fv5%2F2s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pdr270h46v",
@@ -1389,7 +1392,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2Fr2%2F70%2Fh4%2F6v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2Fr2%2F70%2Fh4%2F6v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pb85179413",
@@ -1397,7 +1400,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2F85%2F17%2F94%2F13-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2F85%2F17%2F94%2F13-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pmp48v029f",
@@ -1405,7 +1408,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2Fp4%2F8v%2F02%2F9f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2Fp4%2F8v%2F02%2F9f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pb5646b522",
@@ -1413,7 +1416,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2F56%2F46%2Fb5%2F22-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2F56%2F46%2Fb5%2F22-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pm900qf92f",
@@ -1421,7 +1424,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2F90%2F0q%2Ff9%2F2f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2F90%2F0q%2Ff9%2F2f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p4x51k475k",
@@ -1429,7 +1432,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p4%2Fx5%2F1k%2F47%2F5k-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p4%2Fx5%2F1k%2F47%2F5k-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8910mf38g",
@@ -1437,7 +1440,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2F91%2F0m%2Ff3%2F8g-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2F91%2F0m%2Ff3%2F8g-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9s162t44d",
@@ -1445,7 +1448,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fs1%2F62%2Ft4%2F4d-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fs1%2F62%2Ft4%2F4d-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pxs55nx832",
@@ -1453,7 +1456,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/px%2Fs5%2F5n%2Fx8%2F32-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/px%2Fs5%2F5n%2Fx8%2F32-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ppg15d0403",
@@ -1461,7 +1464,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pp%2Fg1%2F5d%2F04%2F03-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pp%2Fg1%2F5d%2F04%2F03-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ppn89fs26b",
@@ -1469,7 +1472,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pp%2Fn8%2F9f%2Fs2%2F6b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pp%2Fn8%2F9f%2Fs2%2F6b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "psq87dd75m",
@@ -1477,7 +1480,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ps%2Fq8%2F7d%2Fd7%2F5m-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ps%2Fq8%2F7d%2Fd7%2F5m-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pff366r312",
@@ -1485,7 +1488,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pf%2Ff3%2F66%2Fr3%2F12-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pf%2Ff3%2F66%2Fr3%2F12-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pd791v3053",
@@ -1493,7 +1496,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2F79%2F1v%2F30%2F53-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2F79%2F1v%2F30%2F53-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1n79jr09n",
@@ -1501,7 +1504,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2Fn7%2F9j%2Fr0%2F9n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2Fn7%2F9j%2Fr0%2F9n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pcr56pk207",
@@ -1509,7 +1512,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2Fr5%2F6p%2Fk2%2F07-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2Fr5%2F6p%2Fk2%2F07-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1r66kk96v",
@@ -1517,7 +1520,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2Fr6%2F6k%2Fk9%2F6v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2Fr6%2F6k%2Fk9%2F6v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pxs55nx84c",
@@ -1525,7 +1528,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/px%2Fs5%2F5n%2Fx8%2F4c-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/px%2Fs5%2F5n%2Fx8%2F4c-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pf47543423",
@@ -1533,7 +1536,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pf%2F47%2F54%2F34%2F23-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pf%2F47%2F54%2F34%2F23-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8c97n921s",
@@ -1541,7 +1544,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2Fc9%2F7n%2F92%2F1s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2Fc9%2F7n%2F92%2F1s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pv692vs422",
@@ -1549,7 +1552,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pv%2F69%2F2v%2Fs4%2F22-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pv%2F69%2F2v%2Fs4%2F22-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ppr76gp433",
@@ -1557,7 +1560,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pp%2Fr7%2F6g%2Fp4%2F33-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pp%2Fr7%2F6g%2Fp4%2F33-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pk356bp964",
@@ -1565,7 +1568,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pk%2F35%2F6b%2Fp9%2F64-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pk%2F35%2F6b%2Fp9%2F64-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "px920hg99h",
@@ -1573,7 +1576,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/px%2F92%2F0h%2Fg9%2F9h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/px%2F92%2F0h%2Fg9%2F9h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pb8517943q",
@@ -1581,7 +1584,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2F85%2F17%2F94%2F3q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2F85%2F17%2F94%2F3q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pdf65wv12v",
@@ -1589,7 +1592,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2Ff6%2F5w%2Fv1%2F2v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2Ff6%2F5w%2Fv1%2F2v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pxd07jc51n",
@@ -1597,7 +1600,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/px%2Fd0%2F7j%2Fc5%2F1n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/px%2Fd0%2F7j%2Fc5%2F1n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9593wd97h",
@@ -1605,7 +1608,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2F59%2F3w%2Fd9%2F7h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2F59%2F3w%2Fd9%2F7h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ppz50jg511",
@@ -1613,7 +1616,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pp%2Fz5%2F0j%2Fg5%2F11-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pp%2Fz5%2F0j%2Fg5%2F11-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pbc3885492",
@@ -1621,7 +1624,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2Fc3%2F88%2F54%2F92-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2Fc3%2F88%2F54%2F92-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pgf06hn667",
@@ -1629,7 +1632,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2Ff0%2F6h%2Fn6%2F67-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2Ff0%2F6h%2Fn6%2F67-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "psx61g677h",
@@ -1637,7 +1640,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ps%2Fx6%2F1g%2F67%2F7h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ps%2Fx6%2F1g%2F67%2F7h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p6t055145c",
@@ -1645,7 +1648,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p6%2Ft0%2F55%2F14%2F5c-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p6%2Ft0%2F55%2F14%2F5c-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p4742bw79n",
@@ -1653,7 +1656,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p4%2F74%2F2b%2Fw7%2F9n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p4%2F74%2F2b%2Fw7%2F9n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pgb19gr19n",
@@ -1661,7 +1664,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2Fb1%2F9g%2Fr1%2F9n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2Fb1%2F9g%2Fr1%2F9n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pqr46sk446",
@@ -1669,7 +1672,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pq%2Fr4%2F6s%2Fk4%2F46-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pq%2Fr4%2F6s%2Fk4%2F46-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5425mw026",
@@ -1677,7 +1680,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2F42%2F5m%2Fw0%2F26-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2F42%2F5m%2Fw0%2F26-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "psj13bm30t",
@@ -1685,7 +1688,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ps%2Fj1%2F3b%2Fm3%2F0t-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ps%2Fj1%2F3b%2Fm3%2F0t-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pgh93jk587",
@@ -1693,7 +1696,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2Fh9%2F3j%2Fk5%2F87-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2Fh9%2F3j%2Fk5%2F87-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pjw828z11x",
@@ -1701,7 +1704,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pj%2Fw8%2F28%2Fz1%2F1x-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pj%2Fw8%2F28%2Fz1%2F1x-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pth83nk606",
@@ -1709,7 +1712,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2Fh8%2F3n%2Fk6%2F06-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2Fh8%2F3n%2Fk6%2F06-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pr494x500b",
@@ -1717,7 +1720,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2F49%2F4x%2F50%2F0b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2F49%2F4x%2F50%2F0b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9p291w77s",
@@ -1725,7 +1728,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fp2%2F91%2Fw7%2F7s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fp2%2F91%2Fw7%2F7s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pd504t645s",
@@ -1733,7 +1736,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2F50%2F4t%2F64%2F5s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2F50%2F4t%2F64%2F5s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pqb98p124z",
@@ -1741,7 +1744,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pq%2Fb9%2F8p%2F12%2F4z-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pq%2Fb9%2F8p%2F12%2F4z-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "prn302m69s",
@@ -1749,7 +1752,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2Fn3%2F02%2Fm6%2F9s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2Fn3%2F02%2Fm6%2F9s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9g550439w",
@@ -1757,7 +1760,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fg5%2F50%2F43%2F9w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fg5%2F50%2F43%2F9w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pcz30rd01h",
@@ -1765,7 +1768,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2Fz3%2F0r%2Fd0%2F1h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2Fz3%2F0r%2Fd0%2F1h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pp5549c38s",
@@ -1773,7 +1776,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pp%2F55%2F49%2Fc3%2F8s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pp%2F55%2F49%2Fc3%2F8s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pww72cx528",
@@ -1781,7 +1784,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pw%2Fw7%2F2c%2Fx5%2F28-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pw%2Fw7%2F2c%2Fx5%2F28-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ptx31s426v",
@@ -1789,7 +1792,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2Fx3%2F1s%2F42%2F6v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2Fx3%2F1s%2F42%2F6v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8049hr15k",
@@ -1797,7 +1800,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2F04%2F9h%2Fr1%2F5k-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2F04%2F9h%2Fr1%2F5k-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pzw130q73w",
@@ -1805,7 +1808,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pz%2Fw1%2F30%2Fq7%2F3w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pz%2Fw1%2F30%2Fq7%2F3w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "phx120003x",
@@ -1813,7 +1816,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ph%2Fx1%2F20%2F00%2F3x-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ph%2Fx1%2F20%2F00%2F3x-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pb2775f75d",
@@ -1821,7 +1824,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2F27%2F75%2Ff7%2F5d-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2F27%2F75%2Ff7%2F5d-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p7m01d6894",
@@ -1829,7 +1832,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2Fm0%2F1d%2F68%2F94-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2Fm0%2F1d%2F68%2F94-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9k4211363",
@@ -1837,7 +1840,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fk4%2F21%2F13%2F63-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fk4%2F21%2F13%2F63-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8623kh758",
@@ -1845,7 +1848,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2F62%2F3k%2Fh7%2F58-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2F62%2F3k%2Fh7%2F58-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ps4657256j",
@@ -1853,7 +1856,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ps%2F46%2F57%2F25%2F6j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ps%2F46%2F57%2F25%2F6j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p416894003",
@@ -1861,7 +1864,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p4%2F16%2F89%2F40%2F03-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p4%2F16%2F89%2F40%2F03-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pgf06hn67j",
@@ -1869,7 +1872,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2Ff0%2F6h%2Fn6%2F7j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2Ff0%2F6h%2Fn6%2F7j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p3t947b24z",
@@ -1877,7 +1880,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p3%2Ft9%2F47%2Fb2%2F4z-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p3%2Ft9%2F47%2Fb2%2F4z-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pvm410b89d",
@@ -1885,7 +1888,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pv%2Fm4%2F10%2Fb8%2F9d-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pv%2Fm4%2F10%2Fb8%2F9d-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pmp48v030x",
@@ -1893,7 +1896,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2Fp4%2F8v%2F03%2F0x-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2Fp4%2F8v%2F03%2F0x-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9593wd98t",
@@ -1901,7 +1904,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2F59%2F3w%2Fd9%2F8t-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2F59%2F3w%2Fd9%2F8t-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p2v23xd783",
@@ -1909,7 +1912,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p2%2Fv2%2F3x%2Fd7%2F83-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p2%2Fv2%2F3x%2Fd7%2F83-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8k71q374c",
@@ -1917,7 +1920,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2Fk7%2F1q%2F37%2F4c-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2Fk7%2F1q%2F37%2F4c-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pdb78vx25p",
@@ -1925,7 +1928,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2Fb7%2F8v%2Fx2%2F5p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2Fb7%2F8v%2Fx2%2F5p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p4q77hc26g",
@@ -1933,7 +1936,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p4%2Fq7%2F7h%2Fc2%2F6g-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p4%2Fq7%2F7h%2Fc2%2F6g-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8336jn742",
@@ -1941,7 +1944,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2F33%2F6j%2Fn7%2F42-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2F33%2F6j%2Fn7%2F42-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ph989sn95p",
@@ -1949,7 +1952,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ph%2F98%2F9s%2Fn9%2F5p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ph%2F98%2F9s%2Fn9%2F5p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8623kh76k",
@@ -1957,7 +1960,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2F62%2F3k%2Fh7%2F6k-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2F62%2F3k%2Fh7%2F6k-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pgm80kf617",
@@ -1965,7 +1968,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2Fm8%2F0k%2Ff6%2F17-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2Fm8%2F0k%2Ff6%2F17-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pft84b9551",
@@ -1973,7 +1976,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pf%2Ft8%2F4b%2F95%2F51-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pf%2Ft8%2F4b%2F95%2F51-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ps4657257v",
@@ -1981,7 +1984,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ps%2F46%2F57%2F25%2F7v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ps%2F46%2F57%2F25%2F7v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5h73rh65f",
@@ -1989,7 +1992,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2Fh7%2F3r%2Fh6%2F5f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2Fh7%2F3r%2Fh6%2F5f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pq524m7371",
@@ -1997,7 +2000,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pq%2F52%2F4m%2F73%2F71-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pq%2F52%2F4m%2F73%2F71-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pz603sh42v",
@@ -2005,7 +2008,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pz%2F60%2F3s%2Fh4%2F2v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pz%2F60%2F3s%2Fh4%2F2v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "psx61g678t",
@@ -2013,7 +2016,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ps%2Fx6%2F1g%2F67%2F8t-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ps%2Fx6%2F1g%2F67%2F8t-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p69700m825",
@@ -2021,7 +2024,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p6%2F97%2F00%2Fm8%2F25-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p6%2F97%2F00%2Fm8%2F25-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p4742bw81f",
@@ -2029,7 +2032,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p4%2F74%2F2b%2Fw8%2F1f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p4%2F74%2F2b%2Fw8%2F1f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1r66kk975",
@@ -2037,7 +2040,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2Fr6%2F6k%2Fk9%2F75-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2Fr6%2F6k%2Fk9%2F75-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1z40nc79h",
@@ -2045,7 +2048,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2Fz4%2F0n%2Fc7%2F9h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2Fz4%2F0n%2Fc7%2F9h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p3r076f696",
@@ -2053,7 +2056,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p3%2Fr0%2F76%2Ff6%2F96-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p3%2Fr0%2F76%2Ff6%2F96-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pc247gc14g",
@@ -2061,7 +2064,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2F24%2F7g%2Fc1%2F4g-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2F24%2F7g%2Fc1%2F4g-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1n79jr104",
@@ -2069,7 +2072,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2Fn7%2F9j%2Fr1%2F04-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2Fn7%2F9j%2Fr1%2F04-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pht24z507b",
@@ -2077,7 +2080,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ph%2Ft2%2F4z%2F50%2F7b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ph%2Ft2%2F4z%2F50%2F7b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pmw22wq70m",
@@ -2085,7 +2088,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2Fw2%2F2w%2Fq7%2F0m-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2Fw2%2F2w%2Fq7%2F0m-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8623kh77w",
@@ -2093,7 +2096,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2F62%2F3k%2Fh7%2F7w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2F62%2F3k%2Fh7%2F7w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "psn00cj362",
@@ -2101,7 +2104,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ps%2Fn0%2F0c%2Fj3%2F62-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ps%2Fn0%2F0c%2Fj3%2F62-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ph415qv43j",
@@ -2109,7 +2112,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ph%2F41%2F5q%2Fv4%2F3j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ph%2F41%2F5q%2Fv4%2F3j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5712nr86j",
@@ -2117,7 +2120,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2F71%2F2n%2Fr8%2F6j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2F71%2F2n%2Fr8%2F6j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ptm70pd83b",
@@ -2125,7 +2128,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2Fm7%2F0p%2Fd8%2F3b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2Fm7%2F0p%2Fd8%2F3b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "phm50wc271",
@@ -2133,7 +2136,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ph%2Fm5%2F0w%2Fc2%2F71-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ph%2Fm5%2F0w%2Fc2%2F71-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pbz60fg211",
@@ -2141,7 +2144,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2Fz6%2F0f%2Fg2%2F11-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2Fz6%2F0f%2Fg2%2F11-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pff366r32c",
@@ -2149,7 +2152,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pf%2Ff3%2F66%2Fr3%2F2c-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pf%2Ff3%2F66%2Fr3%2F2c-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pp841b648q",
@@ -2157,7 +2160,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pp%2F84%2F1b%2F64%2F8q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pp%2F84%2F1b%2F64%2F8q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pxg94k973g",
@@ -2165,7 +2168,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/px%2Fg9%2F4k%2F97%2F3g-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/px%2Fg9%2F4k%2F97%2F3g-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "png453447q",
@@ -2173,7 +2176,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pn%2Fg4%2F53%2F44%2F7q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pn%2Fg4%2F53%2F44%2F7q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pf4754343d",
@@ -2181,7 +2184,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pf%2F47%2F54%2F34%2F3d-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pf%2F47%2F54%2F34%2F3d-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "psj13bm314",
@@ -2189,7 +2192,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ps%2Fj1%2F3b%2Fm3%2F14-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ps%2Fj1%2F3b%2Fm3%2F14-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ph415qv44v",
@@ -2197,7 +2200,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ph%2F41%2F5q%2Fv4%2F4v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ph%2F41%2F5q%2Fv4%2F4v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pbz60fg23n",
@@ -2205,7 +2208,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2Fz6%2F0f%2Fg2%2F3n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2Fz6%2F0f%2Fg2%2F3n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "px633gk982",
@@ -2213,7 +2216,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/px%2F63%2F3g%2Fk9%2F82-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/px%2F63%2F3g%2Fk9%2F82-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "phm50wc28b",
@@ -2221,7 +2224,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ph%2Fm5%2F0w%2Fc2%2F8b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ph%2Fm5%2F0w%2Fc2%2F8b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p3b592t83h",
@@ -2229,7 +2232,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p3%2Fb5%2F92%2Ft8%2F3h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p3%2Fb5%2F92%2Ft8%2F3h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "psx61g6794",
@@ -2237,7 +2240,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ps%2Fx6%2F1g%2F67%2F94-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ps%2Fx6%2F1g%2F67%2F94-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pd791v307q",
@@ -2245,7 +2248,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2F79%2F1v%2F30%2F7q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2F79%2F1v%2F30%2F7q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "prf560t27s",
@@ -2253,7 +2256,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2Ff5%2F60%2Ft2%2F7s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2Ff5%2F60%2Ft2%2F7s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pvm410b90w",
@@ -2261,7 +2264,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pv%2Fm4%2F10%2Fb9%2F0w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pv%2Fm4%2F10%2Fb9%2F0w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9s162t45q",
@@ -2269,7 +2272,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fs1%2F62%2Ft4%2F5q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fs1%2F62%2Ft4%2F5q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pms35vv60f",
@@ -2277,7 +2280,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2Fs3%2F5v%2Fv6%2F0f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2Fs3%2F5v%2Fv6%2F0f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8623kh786",
@@ -2285,7 +2288,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2F62%2F3k%2Fh7%2F86-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2F62%2F3k%2Fh7%2F86-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9019tn73d",
@@ -2293,7 +2296,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2F01%2F9t%2Fn7%2F3d-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2F01%2F9t%2Fn7%2F3d-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p3b592t84t",
@@ -2301,7 +2304,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p3%2Fb5%2F92%2Ft8%2F4t-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p3%2Fb5%2F92%2Ft8%2F4t-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ptb09kq64d",
@@ -2309,7 +2312,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2Fb0%2F9k%2Fq6%2F4d-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2Fb0%2F9k%2Fq6%2F4d-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pcn69nq86v",
@@ -2317,7 +2320,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2Fn6%2F9n%2Fq8%2F6v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2Fn6%2F9n%2Fq8%2F6v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "prv044c49v",
@@ -2325,7 +2328,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2Fv0%2F44%2Fc4%2F9v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2Fv0%2F44%2Fc4%2F9v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pzg64w613m",
@@ -2333,7 +2336,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pz%2Fg6%2F4w%2F61%2F3m-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pz%2Fg6%2F4w%2F61%2F3m-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "prj431q69n",
@@ -2341,7 +2344,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2Fj4%2F31%2Fq6%2F9n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2Fj4%2F31%2Fq6%2F9n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p73667p636",
@@ -2349,7 +2352,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2F36%2F67%2Fp6%2F36-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2F36%2F67%2Fp6%2F36-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "px920hh023",
@@ -2357,7 +2360,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/px%2F92%2F0h%2Fh0%2F23-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/px%2F92%2F0h%2Fh0%2F23-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pgh93jk59j",
@@ -2365,7 +2368,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2Fh9%2F3j%2Fk5%2F9j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2Fh9%2F3j%2Fk5%2F9j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pd504t6463",
@@ -2373,7 +2376,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2F50%2F4t%2F64%2F63-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2F50%2F4t%2F64%2F63-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pc534h7418",
@@ -2381,7 +2384,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2F53%2F4h%2F74%2F18-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2F53%2F4h%2F74%2F18-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p6682zq18s",
@@ -2389,7 +2392,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p6%2F68%2F2z%2Fq1%2F8s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p6%2F68%2F2z%2Fq1%2F8s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pbg259091m",
@@ -2397,7 +2400,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2Fg2%2F59%2F09%2F1m-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2Fg2%2F59%2F09%2F1m-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pwd377g75n",
@@ -2405,7 +2408,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pw%2Fd3%2F77%2Fg7%2F5n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pw%2Fd3%2F77%2Fg7%2F5n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5425mw054",
@@ -2413,7 +2416,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2F42%2F5m%2Fw0%2F54-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2F42%2F5m%2Fw0%2F54-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pdf65wv14g",
@@ -2421,7 +2424,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2Ff6%2F5w%2Fv1%2F4g-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2Ff6%2F5w%2Fv1%2F4g-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p4x51k476w",
@@ -2429,7 +2432,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p4%2Fx5%2F1k%2F47%2F6w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p4%2Fx5%2F1k%2F47%2F6w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pvm410b916",
@@ -2437,7 +2440,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pv%2Fm4%2F10%2Fb9%2F16-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pv%2Fm4%2F10%2Fb9%2F16-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p00001h96v",
@@ -2445,7 +2448,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2F00%2F01%2Fh9%2F6v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2F00%2F01%2Fh9%2F6v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pr781z286j",
@@ -2453,7 +2456,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2F78%2F1z%2F28%2F6j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2F78%2F1z%2F28%2F6j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p2j62tr804",
@@ -2461,7 +2464,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p2%2Fj6%2F2t%2Fr8%2F04-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p2%2Fj6%2F2t%2Fr8%2F04-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p73667p64h",
@@ -2469,7 +2472,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2F36%2F67%2Fp6%2F4h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2F36%2F67%2Fp6%2F4h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p3n205j109",
@@ -2477,7 +2480,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p3%2Fn2%2F05%2Fj1%2F09-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p3%2Fn2%2F05%2Fj1%2F09-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "phh63vg867",
@@ -2485,7 +2488,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ph%2Fh6%2F3v%2Fg8%2F67-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ph%2Fh6%2F3v%2Fg8%2F67-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9c67z674w",
@@ -2493,7 +2496,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fc6%2F7z%2F67%2F4w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fc6%2F7z%2F67%2F4w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "phq37x8001",
@@ -2501,7 +2504,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ph%2Fq3%2F7x%2F80%2F01-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ph%2Fq3%2F7x%2F80%2F01-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8k71q375p",
@@ -2509,7 +2512,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2Fk7%2F1q%2F37%2F5p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2Fk7%2F1q%2F37%2F5p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p0p097t70g",
@@ -2517,7 +2520,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2Fp0%2F97%2Ft7%2F0g-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2Fp0%2F97%2Ft7%2F0g-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1544d8654",
@@ -2525,7 +2528,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2F54%2F4d%2F86%2F54-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2F54%2F4d%2F86%2F54-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pfq979d833",
@@ -2533,7 +2536,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pf%2Fq9%2F79%2Fd8%2F33-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pf%2Fq9%2F79%2Fd8%2F33-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pkd17fd49x",
@@ -2541,7 +2544,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pk%2Fd1%2F7f%2Fd4%2F9x-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pk%2Fd1%2F7f%2Fd4%2F9x-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pzg64w614x",
@@ -2549,7 +2552,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pz%2Fg6%2F4w%2F61%2F4x-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pz%2Fg6%2F4w%2F61%2F4x-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pwd377g76z",
@@ -2557,7 +2560,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pw%2Fd3%2F77%2Fg7%2F6z-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pw%2Fd3%2F77%2Fg7%2F6z-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pfx71c743h",
@@ -2565,7 +2568,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pf%2Fx7%2F1c%2F74%2F3h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pf%2Fx7%2F1c%2F74%2F3h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pt722jw17q",
@@ -2573,7 +2576,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2F72%2F2j%2Fw1%2F7q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2F72%2F2j%2Fw1%2F7q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pr781z287v",
@@ -2581,7 +2584,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2F78%2F1z%2F28%2F7v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2F78%2F1z%2F28%2F7v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9s162t461",
@@ -2589,7 +2592,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fs1%2F62%2Ft4%2F61-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fs1%2F62%2Ft4%2F61-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "phm50wc29n",
@@ -2597,7 +2600,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ph%2Fm5%2F0w%2Fc2%2F9n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ph%2Fm5%2F0w%2Fc2%2F9n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pbr86cp54h",
@@ -2605,7 +2608,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2Fr8%2F6c%2Fp5%2F4h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2Fr8%2F6c%2Fp5%2F4h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p0v839k61t",
@@ -2613,7 +2616,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2Fv8%2F39%2Fk6%2F1t-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2Fv8%2F39%2Fk6%2F1t-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p3b592t854",
@@ -2621,7 +2624,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p3%2Fb5%2F92%2Ft8%2F54-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p3%2Fb5%2F92%2Ft8%2F54-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8336jn76p",
@@ -2629,7 +2632,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2F33%2F6j%2Fn7%2F6p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2F33%2F6j%2Fn7%2F6p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pm900qf93r",
@@ -2637,7 +2640,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2F90%2F0q%2Ff9%2F3r-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2F90%2F0q%2Ff9%2F3r-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pp5549c41w",
@@ -2645,7 +2648,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pp%2F55%2F49%2Fc4%2F1w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pp%2F55%2F49%2Fc4%2F1w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1z40nc800",
@@ -2653,7 +2656,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2Fz4%2F0n%2Fc8%2F00-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2Fz4%2F0n%2Fc8%2F00-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9k421137d",
@@ -2661,7 +2664,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fk4%2F21%2F13%2F7d-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fk4%2F21%2F13%2F7d-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ppn89fs28z",
@@ -2669,7 +2672,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pp%2Fn8%2F9f%2Fs2%2F8z-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pp%2Fn8%2F9f%2Fs2%2F8z-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9z904j48q",
@@ -2677,7 +2680,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fz9%2F04%2Fj4%2F8q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fz9%2F04%2Fj4%2F8q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "png453449b",
@@ -2685,7 +2688,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pn%2Fg4%2F53%2F44%2F9b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pn%2Fg4%2F53%2F44%2F9b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9s162t47b",
@@ -2693,7 +2696,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fs1%2F62%2Ft4%2F7b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fs1%2F62%2Ft4%2F7b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pqj72qs717",
@@ -2701,7 +2704,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pq%2Fj7%2F2q%2Fs7%2F17-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pq%2Fj7%2F2q%2Fs7%2F17-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pqb98p1286",
@@ -2709,7 +2712,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pq%2Fb9%2F8p%2F12%2F86-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pq%2Fb9%2F8p%2F12%2F86-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p00001h975",
@@ -2717,7 +2720,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2F00%2F01%2Fh9%2F75-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2F00%2F01%2Fh9%2F75-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5138m051b",
@@ -2725,7 +2728,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2F13%2F8m%2F05%2F1b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2F13%2F8m%2F05%2F1b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pt435j0244",
@@ -2733,7 +2736,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2F43%2F5j%2F02%2F44-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2F43%2F5j%2F02%2F44-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pft84b957n",
@@ -2741,7 +2744,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pf%2Ft8%2F4b%2F95%2F7n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pf%2Ft8%2F4b%2F95%2F7n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ptb09kq65q",
@@ -2749,7 +2752,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2Fb0%2F9k%2Fq6%2F5q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2Fb0%2F9k%2Fq6%2F5q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pn5840f98d",
@@ -2757,7 +2760,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pn%2F58%2F40%2Ff9%2F8d-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pn%2F58%2F40%2Ff9%2F8d-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p0c4853900",
@@ -2765,7 +2768,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2Fc4%2F85%2F39%2F00-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2Fc4%2F85%2F39%2F00-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1n79jr11f",
@@ -2773,7 +2776,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2Fn7%2F9j%2Fr1%2F1f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2Fn7%2F9j%2Fr1%2F1f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pt722jw181",
@@ -2781,7 +2784,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2F72%2F2j%2Fw1%2F81-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2F72%2F2j%2Fw1%2F81-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pn296zh742",
@@ -2789,7 +2792,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pn%2F29%2F6z%2Fh7%2F42-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pn%2F29%2F6z%2Fh7%2F42-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p0z70bh330",
@@ -2797,7 +2800,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2Fz7%2F0b%2Fh3%2F30-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2Fz7%2F0b%2Fh3%2F30-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8c97n9223",
@@ -2805,7 +2808,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2Fc9%2F7n%2F92%2F23-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2Fc9%2F7n%2F92%2F23-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p6m313907h",
@@ -2813,7 +2816,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p6%2Fm3%2F13%2F90%2F7h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p6%2Fm3%2F13%2F90%2F7h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p6q184589t",
@@ -2821,7 +2824,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p6%2Fq1%2F84%2F58%2F9t-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p6%2Fq1%2F84%2F58%2F9t-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p7m01d691x",
@@ -2829,7 +2832,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2Fm0%2F1d%2F69%2F1x-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2Fm0%2F1d%2F69%2F1x-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pkw52kt536",
@@ -2837,7 +2840,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pk%2Fw5%2F2k%2Ft5%2F36-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pk%2Fw5%2F2k%2Ft5%2F36-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p4742bw82r",
@@ -2845,7 +2848,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p4%2F74%2F2b%2Fw8%2F2r-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p4%2F74%2F2b%2Fw8%2F2r-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p7m01d6927",
@@ -2853,7 +2856,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2Fm0%2F1d%2F69%2F27-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2Fm0%2F1d%2F69%2F27-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ppk02dx11r",
@@ -2861,7 +2864,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pp%2Fk0%2F2d%2Fx1%2F1r-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pp%2Fk0%2F2d%2Fx1%2F1r-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9s162t48n",
@@ -2869,7 +2872,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fs1%2F62%2Ft4%2F8n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fs1%2F62%2Ft4%2F8n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9p291w783",
@@ -2877,7 +2880,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fp2%2F91%2Fw7%2F83-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fp2%2F91%2Fw7%2F83-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "psq87dd76x",
@@ -2885,7 +2888,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ps%2Fq8%2F7d%2Fd7%2F6x-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ps%2Fq8%2F7d%2Fd7%2F6x-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pdz012884c",
@@ -2893,7 +2896,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2Fz0%2F12%2F88%2F4c-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2Fz0%2F12%2F88%2F4c-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pcf95kw36c",
@@ -2901,7 +2904,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2Ff9%2F5k%2Fw3%2F6c-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2Ff9%2F5k%2Fw3%2F6c-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ps17865169",
@@ -2909,7 +2912,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ps%2F17%2F86%2F51%2F69-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ps%2F17%2F86%2F51%2F69-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pnp194x10c",
@@ -2917,7 +2920,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pn%2Fp1%2F94%2Fx1%2F0c-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pn%2Fp1%2F94%2Fx1%2F0c-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pmp48v032j",
@@ -2925,7 +2928,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2Fp4%2F8v%2F03%2F2j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2Fp4%2F8v%2F03%2F2j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p76538m12w",
@@ -2933,7 +2936,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2F65%2F38%2Fm1%2F2w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2F65%2F38%2Fm1%2F2w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pm900qf942",
@@ -2941,7 +2944,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2F90%2F0q%2Ff9%2F42-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2F90%2F0q%2Ff9%2F42-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p7w62gt79f",
@@ -2949,7 +2952,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2Fw6%2F2g%2Ft7%2F9f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2Fw6%2F2g%2Ft7%2F9f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "px633gk99c",
@@ -2957,7 +2960,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/px%2F63%2F3g%2Fk9%2F9c-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/px%2F63%2F3g%2Fk9%2F9c-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pfq979d84d",
@@ -2965,7 +2968,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pf%2Fq9%2F79%2Fd8%2F4d-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pf%2Fq9%2F79%2Fd8%2F4d-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pqr46sk474",
@@ -2973,7 +2976,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pq%2Fr4%2F6s%2Fk4%2F74-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pq%2Fr4%2F6s%2Fk4%2F74-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p3r076f729",
@@ -2981,7 +2984,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p3%2Fr0%2F76%2Ff7%2F29-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p3%2Fr0%2F76%2Ff7%2F29-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pvd66xj97m",
@@ -2989,7 +2992,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pv%2Fd6%2F6x%2Fj9%2F7m-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pv%2Fd6%2F6x%2Fj9%2F7m-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pw3764s80c",
@@ -2997,7 +3000,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pw%2F37%2F64%2Fs8%2F0c-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pw%2F37%2F64%2Fs8%2F0c-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1g05gx90z",
@@ -3005,7 +3008,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2Fg0%2F5g%2Fx9%2F0z-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2Fg0%2F5g%2Fx9%2F0z-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p0c4853919",
@@ -3013,7 +3016,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2Fc4%2F85%2F39%2F19-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2Fc4%2F85%2F39%2F19-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8910mf42w",
@@ -3021,7 +3024,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2F91%2F0m%2Ff4%2F2w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2F91%2F0m%2Ff4%2F2w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "phh63vg87j",
@@ -3029,7 +3032,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ph%2Fh6%2F3v%2Fg8%2F7j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ph%2Fh6%2F3v%2Fg8%2F7j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pj6732q00c",
@@ -3037,7 +3040,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pj%2F67%2F32%2Fq0%2F0c-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pj%2F67%2F32%2Fq0%2F0c-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pr207w8537",
@@ -3045,7 +3048,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2F20%2F7w%2F85%2F37-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2F20%2F7w%2F85%2F37-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pv118t238s",
@@ -3053,7 +3056,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pv%2F11%2F8t%2F23%2F8s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pv%2F11%2F8t%2F23%2F8s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pst74f8685",
@@ -3061,7 +3064,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ps%2Ft7%2F4f%2F86%2F85-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ps%2Ft7%2F4f%2F86%2F85-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9880xb04g",
@@ -3069,7 +3072,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2F88%2F0x%2Fb0%2F4g-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2F88%2F0x%2Fb0%2F4g-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ptt44r717r",
@@ -3077,7 +3080,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2Ft4%2F4r%2F71%2F7r-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2Ft4%2F4r%2F71%2F7r-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pnc582660q",
@@ -3085,7 +3088,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pn%2Fc5%2F82%2F66%2F0q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pn%2Fc5%2F82%2F66%2F0q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pt722jw19b",
@@ -3093,7 +3096,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2F72%2F2j%2Fw1%2F9b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2F72%2F2j%2Fw1%2F9b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p0z70bh35m",
@@ -3101,7 +3104,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2Fz7%2F0b%2Fh3%2F5m-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2Fz7%2F0b%2Fh3%2F5m-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pn5840f99q",
@@ -3109,7 +3112,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pn%2F58%2F40%2Ff9%2F9q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pn%2F58%2F40%2Ff9%2F9q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p2514q617d",
@@ -3117,7 +3120,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p2%2F51%2F4q%2F61%2F7d-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p2%2F51%2F4q%2F61%2F7d-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p6d571g85k",
@@ -3125,7 +3128,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p6%2Fd5%2F71%2Fg8%2F5k-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p6%2Fd5%2F71%2Fg8%2F5k-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1c18g220b",
@@ -3133,7 +3136,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2Fc1%2F8g%2F22%2F0b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2Fc1%2F8g%2F22%2F0b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p05743c688",
@@ -3141,7 +3144,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2F57%2F43%2Fc6%2F88-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2F57%2F43%2Fc6%2F88-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p3t947b258",
@@ -3149,7 +3152,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p3%2Ft9%2F47%2Fb2%2F58-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p3%2Ft9%2F47%2Fb2%2F58-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p0g3562196",
@@ -3157,7 +3160,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2Fg3%2F56%2F21%2F96-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2Fg3%2F56%2F21%2F96-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "prv044c51n",
@@ -3165,7 +3168,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2Fv0%2F44%2Fc5%2F1n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2Fv0%2F44%2Fc5%2F1n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pft84b9598",
@@ -3173,7 +3176,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pf%2Ft8%2F4b%2F95%2F98-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pf%2Ft8%2F4b%2F95%2F98-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "psb398w27x",
@@ -3181,7 +3184,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ps%2Fb3%2F98%2Fw2%2F7x-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ps%2Fb3%2F98%2Fw2%2F7x-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pdf65wv15s",
@@ -3189,7 +3192,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2Ff6%2F5w%2Fv1%2F5s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2Ff6%2F5w%2Fv1%2F5s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pb8517945b",
@@ -3197,7 +3200,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2F85%2F17%2F94%2F5b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2F85%2F17%2F94%2F5b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pq524m738b",
@@ -3205,7 +3208,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pq%2F52%2F4m%2F73%2F8b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pq%2F52%2F4m%2F73%2F8b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pm900qf95c",
@@ -3213,7 +3216,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2F90%2F0q%2Ff9%2F5c-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2F90%2F0q%2Ff9%2F5c-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pcf95kw37p",
@@ -3221,7 +3224,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2Ff9%2F5k%2Fw3%2F7p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2Ff9%2F5k%2Fw3%2F7p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pbc3885525",
@@ -3229,7 +3232,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2Fc3%2F88%2F55%2F25-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2Fc3%2F88%2F55%2F25-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pbg2590937",
@@ -3237,7 +3240,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2Fg2%2F59%2F09%2F37-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2Fg2%2F59%2F09%2F37-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9s162t49z",
@@ -3245,7 +3248,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fs1%2F62%2Ft4%2F9z-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fs1%2F62%2Ft4%2F9z-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pvm410b93t",
@@ -3253,7 +3256,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pv%2Fm4%2F10%2Fb9%2F3t-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pv%2Fm4%2F10%2Fb9%2F3t-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p76538m136",
@@ -3261,7 +3264,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2F65%2F38%2Fm1%2F36-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2F65%2F38%2Fm1%2F36-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pcn69nq875",
@@ -3269,7 +3272,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2Fn6%2F9n%2Fq8%2F75-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2Fn6%2F9n%2Fq8%2F75-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5712nr885",
@@ -3277,7 +3280,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2F71%2F2n%2Fr8%2F85-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2F71%2F2n%2Fr8%2F85-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9z904j50h",
@@ -3285,7 +3288,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fz9%2F04%2Fj5%2F0h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fz9%2F04%2Fj5%2F0h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pvh53zf91w",
@@ -3293,7 +3296,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pv%2Fh5%2F3z%2Ff9%2F1w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pv%2Fh5%2F3z%2Ff9%2F1w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pmk61t280b",
@@ -3301,7 +3304,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2Fk6%2F1t%2F28%2F0b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2Fk6%2F1t%2F28%2F0b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pv118t2393",
@@ -3309,7 +3312,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pv%2F11%2F8t%2F23%2F93-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pv%2F11%2F8t%2F23%2F93-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p2v23xd80w",
@@ -3317,7 +3320,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p2%2Fv2%2F3x%2Fd8%2F0w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p2%2Fv2%2F3x%2Fd8%2F0w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pmk61t281n",
@@ -3325,7 +3328,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2Fk6%2F1t%2F28%2F1n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2Fk6%2F1t%2F28%2F1n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p7s75g1141",
@@ -3333,7 +3336,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2Fs7%2F5g%2F11%2F41-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2Fs7%2F5g%2F11%2F41-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pgh93jk601",
@@ -3341,7 +3344,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2Fh9%2F3j%2Fk6%2F01-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2Fh9%2F3j%2Fk6%2F01-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "phq37x801b",
@@ -3349,7 +3352,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ph%2Fq3%2F7x%2F80%2F1b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ph%2Fq3%2F7x%2F80%2F1b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p0g356220p",
@@ -3357,7 +3360,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2Fg3%2F56%2F22%2F0p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2Fg3%2F56%2F22%2F0p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p3t947b26k",
@@ -3365,7 +3368,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p3%2Ft9%2F47%2Fb2%2F6k-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p3%2Ft9%2F47%2Fb2%2F6k-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ppz50jg53n",
@@ -3373,7 +3376,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pp%2Fz5%2F0j%2Fg5%2F3n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pp%2Fz5%2F0j%2Fg5%2F3n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pgx41p4556",
@@ -3381,7 +3384,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2Fx4%2F1p%2F45%2F56-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2Fx4%2F1p%2F45%2F56-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5x21w130q",
@@ -3389,7 +3392,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2Fx2%2F1w%2F13%2F0q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2Fx2%2F1w%2F13%2F0q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pw6635p304",
@@ -3397,7 +3400,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pw%2F66%2F35%2Fp3%2F04-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pw%2F66%2F35%2Fp3%2F04-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5h73rh69p",
@@ -3405,7 +3408,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2Fh7%2F3r%2Fh6%2F9p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2Fh7%2F3r%2Fh6%2F9p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pxs55nx85p",
@@ -3413,7 +3416,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/px%2Fs5%2F5n%2Fx8%2F5p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/px%2Fs5%2F5n%2Fx8%2F5p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pt148h320r",
@@ -3421,7 +3424,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2F14%2F8h%2F32%2F0r-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2F14%2F8h%2F32%2F0r-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p6h442b09h",
@@ -3429,7 +3432,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p6%2Fh4%2F42%2Fb0%2F9h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p6%2Fh4%2F42%2Fb0%2F9h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pfx71c746f",
@@ -3437,7 +3440,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pf%2Fx7%2F1c%2F74%2F6f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pf%2Fx7%2F1c%2F74%2F6f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p6108wx83m",
@@ -3445,7 +3448,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p6%2F10%2F8w%2Fx8%2F3m-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p6%2F10%2F8w%2Fx8%2F3m-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5d86qj64h",
@@ -3453,7 +3456,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2Fd8%2F6q%2Fj6%2F4h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2Fd8%2F6q%2Fj6%2F4h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p7p88f2789",
@@ -3461,7 +3464,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2Fp8%2F8f%2F27%2F89-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2Fp8%2F8f%2F27%2F89-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pb5646b54p",
@@ -3469,7 +3472,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2F56%2F46%2Fb5%2F4p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2F56%2F46%2Fb5%2F4p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p02872h063",
@@ -3477,7 +3480,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2F28%2F72%2Fh0%2F63-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2F28%2F72%2Fh0%2F63-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8g84p666k",
@@ -3485,7 +3488,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2Fg8%2F4p%2F66%2F6k-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2Fg8%2F4p%2F66%2F6k-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pv118t240k",
@@ -3493,7 +3496,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pv%2F11%2F8t%2F24%2F0k-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pv%2F11%2F8t%2F24%2F0k-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pj9603m26x",
@@ -3501,7 +3504,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pj%2F96%2F03%2Fm2%2F6x-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pj%2F96%2F03%2Fm2%2F6x-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p2j62tr81f",
@@ -3509,7 +3512,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p2%2Fj6%2F2t%2Fr8%2F1f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p2%2Fj6%2F2t%2Fr8%2F1f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9s162t50f",
@@ -3517,7 +3520,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fs1%2F62%2Ft5%2F0f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fs1%2F62%2Ft5%2F0f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pns065r12n",
@@ -3525,7 +3528,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pn%2Fs0%2F65%2Fr1%2F2n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pn%2Fs0%2F65%2Fr1%2F2n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p2514q618q",
@@ -3533,7 +3536,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p2%2F51%2F4q%2F61%2F8q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p2%2F51%2F4q%2F61%2F8q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pzp38xz37t",
@@ -3541,7 +3544,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pz%2Fp3%2F8x%2Fz3%2F7t-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pz%2Fp3%2F8x%2Fz3%2F7t-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pqv33tj19j",
@@ -3549,7 +3552,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pq%2Fv3%2F3t%2Fj1%2F9j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pq%2Fv3%2F3t%2Fj1%2F9j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p0k226w07r",
@@ -3557,7 +3560,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2Fk2%2F26%2Fw0%2F7r-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2Fk2%2F26%2Fw0%2F7r-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9p291w80w",
@@ -3565,7 +3568,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fp2%2F91%2Fw8%2F0w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fp2%2F91%2Fw8%2F0w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1v53mg47x",
@@ -3573,7 +3576,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2Fv5%2F3m%2Fg4%2F7x-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2Fv5%2F3m%2Fg4%2F7x-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pzw130q78f",
@@ -3581,7 +3584,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pz%2Fw1%2F30%2Fq7%2F8f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pz%2Fw1%2F30%2Fq7%2F8f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pj0990w296",
@@ -3589,7 +3592,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pj%2F09%2F90%2Fw2%2F96-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pj%2F09%2F90%2Fw2%2F96-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pw0893x07f",
@@ -3597,7 +3600,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pw%2F08%2F93%2Fx0%2F7f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pw%2F08%2F93%2Fx0%2F7f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pmg74s6869",
@@ -3605,7 +3608,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2Fg7%2F4s%2F68%2F69-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2Fg7%2F4s%2F68%2F69-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pg158d286v",
@@ -3613,7 +3616,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2F15%2F8d%2F28%2F6v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2F15%2F8d%2F28%2F6v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p0v839k624",
@@ -3621,7 +3624,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2Fv8%2F39%2Fk6%2F24-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2Fv8%2F39%2Fk6%2F24-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p7d27bd788",
@@ -3629,7 +3632,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2Fd2%2F7b%2Fd7%2F88-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2Fd2%2F7b%2Fd7%2F88-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p6h442b100",
@@ -3637,7 +3640,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p6%2Fh4%2F42%2Fb1%2F00-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p6%2Fh4%2F42%2Fb1%2F00-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pb5646b569",
@@ -3645,7 +3648,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2F56%2F46%2Fb5%2F69-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2F56%2F46%2Fb5%2F69-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "prb68zw77m",
@@ -3653,7 +3656,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2Fb6%2F8z%2Fw7%2F7m-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2Fb6%2F8z%2Fw7%2F7m-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pxw42pt925",
@@ -3661,7 +3664,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/px%2Fw4%2F2p%2Ft9%2F25-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/px%2Fw4%2F2p%2Ft9%2F25-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ppv63hj88n",
@@ -3669,7 +3672,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pp%2Fv6%2F3h%2Fj8%2F8n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pp%2Fv6%2F3h%2Fj8%2F8n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1v53mg487",
@@ -3677,7 +3680,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2Fv5%2F3m%2Fg4%2F87-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2Fv5%2F3m%2Fg4%2F87-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pqf85px72n",
@@ -3685,7 +3688,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pq%2Ff8%2F5p%2Fx7%2F2n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pq%2Ff8%2F5p%2Fx7%2F2n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5712nr89g",
@@ -3693,7 +3696,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2F71%2F2n%2Fr8%2F9g-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2F71%2F2n%2Fr8%2F9g-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p05743c69k",
@@ -3701,7 +3704,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2F57%2F43%2Fc6%2F9k-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2F57%2F43%2Fc6%2F9k-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p086147629",
@@ -3709,7 +3712,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2F86%2F14%2F76%2F29-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2F86%2F14%2F76%2F29-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pcn69nq88g",
@@ -3717,7 +3720,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2Fn6%2F9n%2Fq8%2F8g-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2Fn6%2F9n%2Fq8%2F8g-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "phm50wc304",
@@ -3725,7 +3728,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ph%2Fm5%2F0w%2Fc3%2F04-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ph%2Fm5%2F0w%2Fc3%2F04-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ppg15d0431",
@@ -3733,7 +3736,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pp%2Fg1%2F5d%2F04%2F31-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pp%2Fg1%2F5d%2F04%2F31-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pns065r148",
@@ -3741,7 +3744,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pn%2Fs0%2F65%2Fr1%2F48-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pn%2Fs0%2F65%2Fr1%2F48-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pm900qf96p",
@@ -3749,7 +3752,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2F90%2F0q%2Ff9%2F6p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2F90%2F0q%2Ff9%2F6p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p6395xs73h",
@@ -3757,7 +3760,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p6%2F39%2F5x%2Fs7%2F3h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p6%2F39%2F5x%2Fs7%2F3h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pgh93jk61b",
@@ -3765,7 +3768,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2Fh9%2F3j%2Fk6%2F1b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2Fh9%2F3j%2Fk6%2F1b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pfn108h135",
@@ -3773,7 +3776,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pf%2Fn1%2F08%2Fh1%2F35-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pf%2Fn1%2F08%2Fh1%2F35-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p2n49vm16j",
@@ -3781,7 +3784,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p2%2Fn4%2F9v%2Fm1%2F6j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p2%2Fn4%2F9v%2Fm1%2F6j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ps1786517m",
@@ -3789,7 +3792,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ps%2F17%2F86%2F51%2F7m-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ps%2F17%2F86%2F51%2F7m-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5d86qj65t",
@@ -3797,7 +3800,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2Fd8%2F6q%2Fj6%2F5t-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2Fd8%2F6q%2Fj6%2F5t-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ptt44r7182",
@@ -3805,7 +3808,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2Ft4%2F4r%2F71%2F82-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2Ft4%2F4r%2F71%2F82-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pb5646b57m",
@@ -3813,7 +3816,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2F56%2F46%2Fb5%2F7m-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2F56%2F46%2Fb5%2F7m-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9g5504420",
@@ -3821,7 +3824,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fg5%2F50%2F44%2F20-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fg5%2F50%2F44%2F20-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p08614763m",
@@ -3829,7 +3832,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2F86%2F14%2F76%2F3m-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2F86%2F14%2F76%2F3m-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pgq67mb44b",
@@ -3837,7 +3840,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2Fq6%2F7m%2Fb4%2F4b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2Fq6%2F7m%2Fb4%2F4b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pp5549c426",
@@ -3845,7 +3848,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pp%2F55%2F49%2Fc4%2F26-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pp%2F55%2F49%2Fc4%2F26-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pdn39zm56t",
@@ -3853,7 +3856,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2Fn3%2F9z%2Fm5%2F6t-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2Fn3%2F9z%2Fm5%2F6t-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p3j334m85d",
@@ -3861,7 +3864,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p3%2Fj3%2F34%2Fm8%2F5d-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p3%2Fj3%2F34%2Fm8%2F5d-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pzp38xz384",
@@ -3869,7 +3872,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pz%2Fp3%2F8x%2Fz3%2F84-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pz%2Fp3%2F8x%2Fz3%2F84-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pdb78vx279",
@@ -3877,7 +3880,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2Fb7%2F8v%2Fx2%2F79-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2Fb7%2F8v%2Fx2%2F79-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pw9506k53r",
@@ -3885,7 +3888,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pw%2F95%2F06%2Fk5%2F3r-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pw%2F95%2F06%2Fk5%2F3r-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pg158d288g",
@@ -3893,7 +3896,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2F15%2F8d%2F28%2F8g-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2F15%2F8d%2F28%2F8g-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p41689402q",
@@ -3901,7 +3904,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p4%2F16%2F89%2F40%2F2q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p4%2F16%2F89%2F40%2F2q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9k4211391",
@@ -3909,7 +3912,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fk4%2F21%2F13%2F91-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fk4%2F21%2F13%2F91-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pf7624z45q",
@@ -3917,7 +3920,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pf%2F76%2F24%2Fz4%2F5q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pf%2F76%2F24%2Fz4%2F5q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5d86qj664",
@@ -3925,7 +3928,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2Fd8%2F6q%2Fj6%2F64-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2Fd8%2F6q%2Fj6%2F64-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pww72cx556",
@@ -3933,7 +3936,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pw%2Fw7%2F2c%2Fx5%2F56-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pw%2Fw7%2F2c%2Fx5%2F56-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pfq979d861",
@@ -3941,7 +3944,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pf%2Fq9%2F79%2Fd8%2F61-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pf%2Fq9%2F79%2Fd8%2F61-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pqb98p1300",
@@ -3949,7 +3952,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pq%2Fb9%2F8p%2F13%2F00-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pq%2Fb9%2F8p%2F13%2F00-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ps1786518x",
@@ -3957,7 +3960,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ps%2F17%2F86%2F51%2F8x-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ps%2F17%2F86%2F51%2F8x-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pg732fw76w",
@@ -3965,7 +3968,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2F73%2F2f%2Fw7%2F6w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2F73%2F2f%2Fw7%2F6w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p3n205j137",
@@ -3973,7 +3976,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p3%2Fn2%2F05%2Fj1%2F37-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p3%2Fn2%2F05%2Fj1%2F37-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pkp78j188h",
@@ -3981,7 +3984,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pk%2Fp7%2F8j%2F18%2F8h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pk%2Fp7%2F8j%2F18%2F8h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pb8517946n",
@@ -3989,7 +3992,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2F85%2F17%2F94%2F6n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2F85%2F17%2F94%2F6n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p4x51k478h",
@@ -3997,7 +4000,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p4%2Fx5%2F1k%2F47%2F8h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p4%2Fx5%2F1k%2F47%2F8h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p2z10z9712",
@@ -4005,7 +4008,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p2%2Fz1%2F0z%2F97%2F12-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p2%2Fz1%2F0z%2F97%2F12-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "png4534514",
@@ -4013,7 +4016,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pn%2Fg4%2F53%2F45%2F14-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pn%2Fg4%2F53%2F45%2F14-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p3f463r02c",
@@ -4021,7 +4024,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p3%2Ff4%2F63%2Fr0%2F2c-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p3%2Ff4%2F63%2Fr0%2F2c-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pbc388553g",
@@ -4029,7 +4032,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2Fc3%2F88%2F55%2F3g-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2Fc3%2F88%2F55%2F3g-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "px920hh051",
@@ -4037,7 +4040,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/px%2F92%2F0h%2Fh0%2F51-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/px%2F92%2F0h%2Fh0%2F51-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pc534h7446",
@@ -4045,7 +4048,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2F53%2F4h%2F74%2F46-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2F53%2F4h%2F74%2F46-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ppv63hj89z",
@@ -4053,7 +4056,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pp%2Fv6%2F3h%2Fj8%2F9z-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pp%2Fv6%2F3h%2Fj8%2F9z-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pbk129w36f",
@@ -4061,7 +4064,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2Fk1%2F29%2Fw3%2F6f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2Fk1%2F29%2Fw3%2F6f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pjd474f46q",
@@ -4069,7 +4072,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pj%2Fd4%2F74%2Ff4%2F6q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pj%2Fd4%2F74%2Ff4%2F6q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pc247gc15s",
@@ -4077,7 +4080,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2F24%2F7g%2Fc1%2F5s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2F24%2F7g%2Fc1%2F5s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pg445f096h",
@@ -4085,7 +4088,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2F44%2F5f%2F09%2F6h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2F44%2F5f%2F09%2F6h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ph702rq944",
@@ -4093,7 +4096,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ph%2F70%2F2r%2Fq9%2F44-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ph%2F70%2F2r%2Fq9%2F44-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p4b29cr62p",
@@ -4101,7 +4104,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p4%2Fb2%2F9c%2Fr6%2F2p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p4%2Fb2%2F9c%2Fr6%2F2p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pxk81m521c",
@@ -4109,7 +4112,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/px%2Fk8%2F1m%2F52%2F1c-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/px%2Fk8%2F1m%2F52%2F1c-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p7w62gt817",
@@ -4117,7 +4120,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2Fw6%2F2g%2Ft8%2F17-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2Fw6%2F2g%2Ft8%2F17-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pt722jw20t",
@@ -4125,7 +4128,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2F72%2F2j%2Fw2%2F0t-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2F72%2F2j%2Fw2%2F0t-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p2n49vm17v",
@@ -4133,7 +4136,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p2%2Fn4%2F9v%2Fm1%2F7v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p2%2Fn4%2F9v%2Fm1%2F7v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pkd17fd51q",
@@ -4141,7 +4144,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pk%2Fd1%2F7f%2Fd5%2F1q-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pk%2Fd1%2F7f%2Fd5%2F1q-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1c18g222z",
@@ -4149,7 +4152,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2Fc1%2F8g%2F22%2F2z-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2Fc1%2F8g%2F22%2F2z-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p2n49vm185",
@@ -4157,7 +4160,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p2%2Fn4%2F9v%2Fm1%2F85-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p2%2Fn4%2F9v%2Fm1%2F85-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pd791v3114",
@@ -4165,7 +4168,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2F79%2F1v%2F31%2F14-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2F79%2F1v%2F31%2F14-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p7m01d693j",
@@ -4173,7 +4176,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2Fm0%2F1d%2F69%2F3j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2Fm0%2F1d%2F69%2F3j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pz890tf444",
@@ -4181,7 +4184,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pz%2F89%2F0t%2Ff4%2F44-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pz%2F89%2F0t%2Ff4%2F44-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ppn89fs298",
@@ -4189,7 +4192,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pp%2Fn8%2F9f%2Fs2%2F98-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pp%2Fn8%2F9f%2Fs2%2F98-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p6682zq21w",
@@ -4197,7 +4200,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p6%2F68%2F2z%2Fq2%2F1w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p6%2F68%2F2z%2Fq2%2F1w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pw0893x08r",
@@ -4205,7 +4208,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pw%2F08%2F93%2Fx0%2F8r-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pw%2F08%2F93%2Fx0%2F8r-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p02872h07d",
@@ -4213,7 +4216,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2F28%2F72%2Fh0%2F7d-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2F28%2F72%2Fh0%2F7d-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p0p097t73d",
@@ -4221,7 +4224,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2Fp0%2F97%2Ft7%2F3d-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2Fp0%2F97%2Ft7%2F3d-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pz890tf45f",
@@ -4229,7 +4232,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pz%2F89%2F0t%2Ff4%2F5f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pz%2F89%2F0t%2Ff4%2F5f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pq811n497t",
@@ -4237,7 +4240,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pq%2F81%2F1n%2F49%2F7t-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pq%2F81%2F1n%2F49%2F7t-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8w32ss164",
@@ -4245,7 +4248,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2Fw3%2F2s%2Fs1%2F64-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2Fw3%2F2s%2Fs1%2F64-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p7h14c912w",
@@ -4253,7 +4256,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2Fh1%2F4c%2F91%2F2w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2Fh1%2F4c%2F91%2F2w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p4455b064w",
@@ -4261,7 +4264,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p4%2F45%2F5b%2F06%2F4w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p4%2F45%2F5b%2F06%2F4w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5t34v5314",
@@ -4269,7 +4272,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2Ft3%2F4v%2F53%2F14-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2Ft3%2F4v%2F53%2F14-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pv692vs469",
@@ -4277,7 +4280,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pv%2F69%2F2v%2Fs4%2F69-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pv%2F69%2F2v%2Fs4%2F69-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pn8711899c",
@@ -4285,7 +4288,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pn%2F87%2F11%2F89%2F9c-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pn%2F87%2F11%2F89%2F9c-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p0g3562210",
@@ -4293,7 +4296,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2Fg3%2F56%2F22%2F10-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2Fg3%2F56%2F22%2F10-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p4m90gf56b",
@@ -4301,7 +4304,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p4%2Fm9%2F0g%2Ff5%2F6b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p4%2Fm9%2F0g%2Ff5%2F6b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ptd96mp10p",
@@ -4309,7 +4312,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2Fd9%2F6m%2Fp1%2F0p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2Fd9%2F6m%2Fp1%2F0p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pcf95kw399",
@@ -4317,7 +4320,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2Ff9%2F5k%2Fw3%2F99-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2Ff9%2F5k%2Fw3%2F99-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5t34v532f",
@@ -4325,7 +4328,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2Ft3%2F4v%2F53%2F2f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2Ft3%2F4v%2F53%2F2f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pj9603m28j",
@@ -4333,7 +4336,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pj%2F96%2F03%2Fm2%2F8j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pj%2F96%2F03%2Fm2%2F8j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1544d8682",
@@ -4341,7 +4344,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2F54%2F4d%2F86%2F82-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2F54%2F4d%2F86%2F82-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5425mw06f",
@@ -4349,7 +4352,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2F42%2F5m%2Fw0%2F6f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2F42%2F5m%2Fw0%2F6f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9593wf003",
@@ -4357,7 +4360,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2F59%2F3w%2Ff0%2F03-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2F59%2F3w%2Ff0%2F03-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p6682zq226",
@@ -4365,7 +4368,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p6%2F68%2F2z%2Fq2%2F26-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p6%2F68%2F2z%2Fq2%2F26-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pd217s8696",
@@ -4373,7 +4376,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2F21%2F7s%2F86%2F96-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2F21%2F7s%2F86%2F96-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pr781z2885",
@@ -4381,7 +4384,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2F78%2F1z%2F28%2F85-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2F78%2F1z%2F28%2F85-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pqf85px748",
@@ -4389,7 +4392,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pq%2Ff8%2F5p%2Fx7%2F48-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pq%2Ff8%2F5p%2Fx7%2F48-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pq811n4984",
@@ -4397,7 +4400,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pq%2F81%2F1n%2F49%2F84-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pq%2F81%2F1n%2F49%2F84-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pbr86cp564",
@@ -4405,7 +4408,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2Fr8%2F6c%2Fp5%2F64-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2Fr8%2F6c%2Fp5%2F64-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pcv43qg31z",
@@ -4413,7 +4416,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2Fv4%2F3q%2Fg3%2F1z-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2Fv4%2F3q%2Fg3%2F1z-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pbg259094j",
@@ -4421,7 +4424,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2Fg2%2F59%2F09%2F4j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2Fg2%2F59%2F09%2F4j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p2b88rx00d",
@@ -4429,7 +4432,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p2%2Fb8%2F8r%2Fx0%2F0d-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p2%2Fb8%2F8r%2Fx0%2F0d-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pwm119733z",
@@ -4437,7 +4440,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pw%2Fm1%2F19%2F73%2F3z-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pw%2Fm1%2F19%2F73%2F3z-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pwd377g78k",
@@ -4445,7 +4448,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pw%2Fd3%2F77%2Fg7%2F8k-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pw%2Fd3%2F77%2Fg7%2F8k-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pr781z289g",
@@ -4453,7 +4456,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2F78%2F1z%2F28%2F9g-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2F78%2F1z%2F28%2F9g-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1g05gx92k",
@@ -4461,7 +4464,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2Fg0%2F5g%2Fx9%2F2k-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2Fg0%2F5g%2Fx9%2F2k-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pkk91h4865",
@@ -4469,7 +4472,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pk%2Fk9%2F1h%2F48%2F65-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pk%2Fk9%2F1h%2F48%2F65-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8g84p6686",
@@ -4477,7 +4480,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2Fg8%2F4p%2F66%2F86-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2Fg8%2F4p%2F66%2F86-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pmp48v033v",
@@ -4485,7 +4488,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pm%2Fp4%2F8v%2F03%2F3v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pm%2Fp4%2F8v%2F03%2F3v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ph989sn960",
@@ -4493,7 +4496,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ph%2F98%2F9s%2Fn9%2F60-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ph%2F98%2F9s%2Fn9%2F60-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1544d869c",
@@ -4501,7 +4504,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2F54%2F4d%2F86%2F9c-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2F54%2F4d%2F86%2F9c-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pdr270h475",
@@ -4509,7 +4512,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2Fr2%2F70%2Fh4%2F75-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2Fr2%2F70%2Fh4%2F75-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pv405tv783",
@@ -4517,7 +4520,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pv%2F40%2F5t%2Fv7%2F83-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pv%2F40%2F5t%2Fv7%2F83-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pk930dg611",
@@ -4525,7 +4528,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pk%2F93%2F0d%2Fg6%2F11-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pk%2F93%2F0d%2Fg6%2F11-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5d86qj67f",
@@ -4533,7 +4536,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2Fd8%2F6q%2Fj6%2F7f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2Fd8%2F6q%2Fj6%2F7f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ppr76gp461",
@@ -4541,7 +4544,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pp%2Fr7%2F6g%2Fp4%2F61-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pp%2Fr7%2F6g%2Fp4%2F61-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pr494x502z",
@@ -4549,7 +4552,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pr%2F49%2F4x%2F50%2F2z-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pr%2F49%2F4x%2F50%2F2z-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p4x51k479t",
@@ -4557,7 +4560,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p4%2Fx5%2F1k%2F47%2F9t-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p4%2Fx5%2F1k%2F47%2F9t-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pw6635p332",
@@ -4565,7 +4568,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pw%2F66%2F35%2Fp3%2F32-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pw%2F66%2F35%2Fp3%2F32-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pcc08k113x",
@@ -4573,7 +4576,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2Fc0%2F8k%2F11%2F3x-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2Fc0%2F8k%2F11%2F3x-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9306vj324",
@@ -4581,7 +4584,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2F30%2F6v%2Fj3%2F24-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2F30%2F6v%2Fj3%2F24-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pvh53zf954",
@@ -4589,7 +4592,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pv%2Fh5%2F3z%2Ff9%2F54-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pv%2Fh5%2F3z%2Ff9%2F54-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pdf65wv163",
@@ -4597,7 +4600,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2Ff6%2F5w%2Fv1%2F63-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2Ff6%2F5w%2Fv1%2F63-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8w32ss17f",
@@ -4605,7 +4608,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2Fw3%2F2s%2Fs1%2F7f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2Fw3%2F2s%2Fs1%2F7f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pt435j029p",
@@ -4613,7 +4616,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2F43%2F5j%2F02%2F9p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2F43%2F5j%2F02%2F9p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p2n49vm20z",
@@ -4621,7 +4624,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p2%2Fn4%2F9v%2Fm2%2F0z-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p2%2Fn4%2F9v%2Fm2%2F0z-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p6682zq23h",
@@ -4629,7 +4632,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p6%2F68%2F2z%2Fq2%2F3h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p6%2F68%2F2z%2Fq2%2F3h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p2801r294k",
@@ -4637,7 +4640,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p2%2F80%2F1r%2F29%2F4k-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p2%2F80%2F1r%2F29%2F4k-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p34851326m",
@@ -4645,7 +4648,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p3%2F48%2F51%2F32%2F6m-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p3%2F48%2F51%2F32%2F6m-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p73667p664",
@@ -4653,7 +4656,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2F36%2F67%2Fp6%2F64-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2F36%2F67%2Fp6%2F64-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p0v839k64r",
@@ -4661,7 +4664,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2Fv8%2F39%2Fk6%2F4r-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2Fv8%2F39%2Fk6%2F4r-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pjm216878p",
@@ -4669,7 +4672,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pj%2Fm2%2F16%2F87%2F8p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pj%2Fm2%2F16%2F87%2F8p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pp5549c43h",
@@ -4677,7 +4680,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pp%2F55%2F49%2Fc4%2F3h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pp%2F55%2F49%2Fc4%2F3h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5x21w132b",
@@ -4685,7 +4688,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2Fx2%2F1w%2F13%2F2b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2Fx2%2F1w%2F13%2F2b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5999pp578",
@@ -4693,7 +4696,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2F99%2F9p%2Fp5%2F78-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2F99%2F9p%2Fp5%2F78-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pt148h322c",
@@ -4701,7 +4704,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2F14%2F8h%2F32%2F2c-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2F14%2F8h%2F32%2F2c-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p08614767v",
@@ -4709,7 +4712,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2F86%2F14%2F76%2F7v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2F86%2F14%2F76%2F7v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "phx120006v",
@@ -4717,7 +4720,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ph%2Fx1%2F20%2F00%2F6v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ph%2Fx1%2F20%2F00%2F6v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ph415qv46g",
@@ -4725,7 +4728,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/ph%2F41%2F5q%2Fv4%2F6g-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/ph%2F41%2F5q%2Fv4%2F6g-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pd791v312f",
@@ -4733,7 +4736,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2F79%2F1v%2F31%2F2f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2F79%2F1v%2F31%2F2f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pcn69nq89s",
@@ -4741,7 +4744,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2Fn6%2F9n%2Fq8%2F9s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2Fn6%2F9n%2Fq8%2F9s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pz890tf472",
@@ -4749,7 +4752,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pz%2F89%2F0t%2Ff4%2F72-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pz%2F89%2F0t%2Ff4%2F72-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pq524m741f",
@@ -4757,7 +4760,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pq%2F52%2F4m%2F74%2F1f-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pq%2F52%2F4m%2F74%2F1f-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p0k226w09c",
@@ -4765,7 +4768,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2Fk2%2F26%2Fw0%2F9c-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2Fk2%2F26%2Fw0%2F9c-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ptt44r720v",
@@ -4773,7 +4776,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2Ft4%2F4r%2F72%2F0v-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2Ft4%2F4r%2F72%2F0v-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1831f569h",
@@ -4781,7 +4784,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2F83%2F1f%2F56%2F9h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2F83%2F1f%2F56%2F9h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p6682zq24t",
@@ -4789,7 +4792,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p6%2F68%2F2z%2Fq2%2F4t-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p6%2F68%2F2z%2Fq2%2F4t-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5q47t785c",
@@ -4797,7 +4800,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2Fq4%2F7t%2F78%2F5c-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2Fq4%2F7t%2F78%2F5c-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pwh248b17h",
@@ -4805,7 +4808,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pw%2Fh2%2F48%2Fb1%2F7h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pw%2Fh2%2F48%2Fb1%2F7h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p7s75g116n",
@@ -4813,7 +4816,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2Fs7%2F5g%2F11%2F6n-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2Fs7%2F5g%2F11%2F6n-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p1j92ht39h",
@@ -4821,7 +4824,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p1%2Fj9%2F2h%2Ft3%2F9h-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p1%2Fj9%2F2h%2Ft3%2F9h-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pxp68n3632",
@@ -4829,7 +4832,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/px%2Fp6%2F8n%2F36%2F32-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/px%2Fp6%2F8n%2F36%2F32-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pf4754346b",
@@ -4837,7 +4840,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pf%2F47%2F54%2F34%2F6b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pf%2F47%2F54%2F34%2F6b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pxw42pt94s",
@@ -4845,7 +4848,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/px%2Fw4%2F2p%2Ft9%2F4s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/px%2Fw4%2F2p%2Ft9%2F4s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pdv141d33s",
@@ -4853,7 +4856,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2Fv1%2F41%2Fd3%2F3s-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2Fv1%2F41%2Fd3%2F3s-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p7m01d6955",
@@ -4861,7 +4864,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p7%2Fm0%2F1d%2F69%2F55-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p7%2Fm0%2F1d%2F69%2F55-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pnk324135z",
@@ -4869,7 +4872,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pn%2Fk3%2F24%2F13%2F5z-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pn%2Fk3%2F24%2F13%2F5z-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pj3861s773",
@@ -4877,7 +4880,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pj%2F38%2F61%2Fs7%2F73-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pj%2F38%2F61%2Fs7%2F73-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pz316rp62r",
@@ -4885,7 +4888,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pz%2F31%2F6r%2Fp6%2F2r-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pz%2F31%2F6r%2Fp6%2F2r-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5t34v533r",
@@ -4893,7 +4896,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2Ft3%2F4v%2F53%2F3r-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2Ft3%2F4v%2F53%2F3r-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pns065r15k",
@@ -4901,7 +4904,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pn%2Fs0%2F65%2Fr1%2F5k-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pn%2Fs0%2F65%2Fr1%2F5k-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9w033n04z",
@@ -4909,7 +4912,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fw0%2F33%2Fn0%2F4z-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fw0%2F33%2Fn0%2F4z-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pcz30rd034",
@@ -4917,7 +4920,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pc%2Fz3%2F0r%2Fd0%2F34-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pc%2Fz3%2F0r%2Fd0%2F34-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pb5646b58x",
@@ -4925,7 +4928,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pb%2F56%2F46%2Fb5%2F8x-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pb%2F56%2F46%2Fb5%2F8x-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p8p58r0359",
@@ -4933,7 +4936,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p8%2Fp5%2F8r%2F03%2F59-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p8%2Fp5%2F8r%2F03%2F59-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p2801r295w",
@@ -4941,7 +4944,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p2%2F80%2F1r%2F29%2F5w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p2%2F80%2F1r%2F29%2F5w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p9z904j524",
@@ -4949,7 +4952,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p9%2Fz9%2F04%2Fj5%2F24-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p9%2Fz9%2F04%2Fj5%2F24-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pw3764s820",
@@ -4957,7 +4960,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pw%2F37%2F64%2Fs8%2F20-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pw%2F37%2F64%2Fs8%2F20-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p5q47t786p",
@@ -4965,7 +4968,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p5%2Fq4%2F7t%2F78%2F6p-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p5%2Fq4%2F7t%2F78%2F6p-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "ptb09kq67b",
@@ -4973,7 +4976,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pt%2Fb0%2F9k%2Fq6%2F7b-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pt%2Fb0%2F9k%2Fq6%2F7b-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pjm2168790",
@@ -4981,7 +4984,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pj%2Fm2%2F16%2F87%2F90-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pj%2Fm2%2F16%2F87%2F90-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pg445f097t",
@@ -4989,7 +4992,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pg%2F44%2F5f%2F09%2F7t-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pg%2F44%2F5f%2F09%2F7t-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p0r968q03w",
@@ -4997,7 +5000,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p0%2Fr9%2F68%2Fq0%2F3w-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p0%2Fr9%2F68%2Fq0%2F3w-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pq237kb45j",
@@ -5005,7 +5008,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pq%2F23%2F7k%2Fb4%2F5j-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pq%2F23%2F7k%2Fb4%2F5j-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "pdz0128860",
@@ -5013,7 +5016,7 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/pd%2Fz0%2F12%2F88%2F60-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/pd%2Fz0%2F12%2F88%2F60-intermediate_file.jp2/full/400,/0/default.jpg"
   },
   {
     "id": "p2z10z9740",
@@ -5021,6 +5024,8 @@ var img_collection = [
     "pageType": "single",
     "isThumb": null,
     "isStart": null,
-    "url": "https:\/\/libimages1.princeton.edu\/loris\/plum_prod\/p2%2Fz1%2F0z%2F97%2F40-intermediate_file.jp2\/full\/400,\/0\/default.jpg"
+    "url": "https://libimages1.princeton.edu/loris/plum_prod/p2%2Fz1%2F0z%2F97%2F40-intermediate_file.jp2/full/400,/0/default.jpg"
   }
 ]
+
+export default ImageCollection
