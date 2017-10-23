@@ -1,14 +1,23 @@
 <template>
   <div class="sidebar">
     <div id="detail" class="actions">
-      <img id="detail_img" src=""></img>
+      <img id="detail_img" :src="selectedImageUrl"></img>
     </div>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'detail'
+  name: 'detail',
+  computed: {
+    selectedImageUrl () {
+      if (this.$store.state.selected.length === 1) {
+        return this.$store.state.selected[0].url
+      } else {
+        return ''
+      }
+    }
+  }
 }
 </script>
 
