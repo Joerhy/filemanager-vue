@@ -17,8 +17,8 @@ const mutations = {
   DECREMENT (state) {
     state.count--
   },
-  SELECT (state, idArray) {
-    state.selected = idArray.map(getImageById)
+  SELECT (state, imgArray) {
+    state.selected = imgArray
   },
   SORT (state, value) {
     state.images = [ ...value ]
@@ -31,24 +31,12 @@ const actions = {
       commit('INCREMENT')
     }, 200)
   },
-  handleSelect (context, idArray) {
-    context.commit('SELECT', idArray)
+  handleSelect (context, imgArray) {
+    context.commit('SELECT', imgArray)
   },
   sortImages (context, value) {
     context.commit('SORT', value)
   }
-}
-
-// helpers ... TODO: consider moving to a separate module
-function getImageById (id) {
-  var elementPos = getImageIndexById(id)
-  return state.images[elementPos]
-}
-
-function getImageIndexById (id) {
-  return state.images.map(function (image) {
-    return image.id
-  }).indexOf(id)
 }
 
 const store = new Vuex.Store({

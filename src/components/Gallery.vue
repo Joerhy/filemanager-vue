@@ -2,10 +2,10 @@
   <div class="content">
     <div class="gallery_controls">
       Select:
-      <button id="select_all_btn" class="btn btn-default btn-sm"><i class="fa fa-th"></i> All</button>
-      <button id="select_none_btn" class="btn btn-default btn-sm"><i class="fa fa-th fa-inverse"></i> None</button>
-      <button id="select_alternate_btn" class="btn btn-default btn-sm"><i class="fa fa-th fa-inverse"></i> Alternate</button>
-      <button id="select_inverse_btn" class="btn btn-default btn-sm"><i class="fa fa-th fa-inverse"></i> Inverse</button>
+      <button @click.capture="selectAll()" id="select_all_btn" class="btn btn-default btn-sm"><i class="fa fa-th"></i> All</button>
+      <button @click.capture="selectNone()" id="select_none_btn" class="btn btn-default btn-sm"><i class="fa fa-th fa-inverse"></i> None</button>
+      <button @click.capture="selectAlternate()" id="select_alternate_btn" class="btn btn-default btn-sm"><i class="fa fa-th fa-inverse"></i> Alternate</button>
+      <button @click.capture="selectInverse()" id="select_inverse_btn" class="btn btn-default btn-sm"><i class="fa fa-th fa-inverse"></i> Inverse</button>
       <div id="img_sizer">
         <i class="fa fa-image"></i>
         <input @input="resizeThumbs($event)" style="display:inline-block;" type="range" min="40" max="400" value="200">
@@ -47,19 +47,20 @@ export default {
     }
   },
   methods: {
-    resizeThumbs: function (event) {
-      this.$data.thumbPixelWidth = event.target.value
-      if (this.$data.thumbPixelWidth < 75) {
-        this.$data.captionPixelPadding = 0
-      } else {
-        this.$data.captionPixelPadding = 9
-      }
+    getImageById: function (id) {
+      var elementPos = this.getImageIndexById(id)
+      return this.$store.state.images[elementPos]
+    },
+    getImageIndexById: function (id) {
+      return this.$store.state.images.map(function (image) {
+        return image.id
+      }).indexOf(id)
     },
     select: function (id, event) {
       var selected = []
       if (event.metaKey) {
-        selected = this.$store.state.selected.map(function (item) { return item.id })
-        selected.push(id)
+        selected = this.$store.state.selected
+        selected.push(this.getImageById(id))
         this.$store.dispatch('handleSelect', selected)
       } else {
         if (this.$store.state.selected.length === 1 && event.shiftKey) {
@@ -68,13 +69,35 @@ export default {
           var min = Math.min(first, second)
           var max = Math.max(first, second)
           for (var i = min; i <= max; i++) {
-            selected.push(this.$store.state.images[i].id)
+            selected.push(this.$store.state.images[i])
           }
           this.$store.dispatch('handleSelect', selected)
         } else {
-          this.$store.dispatch('handleSelect', [id])
+          this.$store.dispatch('handleSelect', [this.getImageById(id)])
         }
       }
+    },
+    selectAll: function () {
+      this.$store.dispatch('handleSelect', this.$store.state.images)
+    },
+    selectAlternate: function () {
+      var selected = []
+      var imgTotal = this.$store.state.images.length
+      for (var i = 0; i < imgTotal; i = i + 2) {
+        selected.push(this.$store.state.images[i])
+      }
+      this.$store.dispatch('handleSelect', selected)
+    },
+    selectInverse: function () {
+      var selected = []
+      var imgTotal = this.$store.state.images.length
+      for (var i = 1; i < imgTotal; i = i + 2) {
+        selected.push(this.$store.state.images[i])
+      }
+      this.$store.dispatch('handleSelect', selected)
+    },
+    selectNone: function () {
+      this.$store.dispatch('handleSelect', [])
     },
     isSelected: function (thumbnail) {
       if (this.$store.state.selected.indexOf(thumbnail) > -1) {
@@ -83,10 +106,13 @@ export default {
         return false
       }
     },
-    getImageIndexById: function (id) {
-      return this.$store.state.images.map(function (image) {
-        return image.id
-      }).indexOf(id)
+    resizeThumbs: function (event) {
+      this.$data.thumbPixelWidth = event.target.value
+      if (this.$data.thumbPixelWidth < 75) {
+        this.$data.captionPixelPadding = 0
+      } else {
+        this.$data.captionPixelPadding = 9
+      }
     }
   }
 }
