@@ -1,13 +1,15 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
-import ImageCollection from '../fixtures/lots_of_images'
+import ImageCollection from '../fixtures/images'
 
 Vue.use(Vuex)
 
 const state = {
   count: 0,
   images: ImageCollection,
-  selected: []
+  selected: [],
+  ogImages: ImageCollection,
+  changeList: []
 }
 
 const mutations = {

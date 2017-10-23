@@ -161,9 +161,9 @@ body {
   background-color: Tomato
 }
 
-#orderChangedIcon {
+/*#orderChangedIcon {
   display: none;
-}
+}*/
 
 .thumbnail .caption {
   pointer-events: none;
