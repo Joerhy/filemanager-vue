@@ -8,7 +8,7 @@
       <button id="select_inverse_btn" class="btn btn-default btn-sm"><i class="fa fa-th fa-inverse"></i> Inverse</button>
       <div id="img_sizer">
         <i class="fa fa-image"></i>
-        <input @change="resizeThumbs($event)" style="display:inline-block;" type="range" min="40" max="400" value="200">
+        <input @input="resizeThumbs($event)" style="display:inline-block;" type="range" min="40" max="400" value="200">
         <i class="fa fa-image fa-lg"></i>
       </div>
     </div>
