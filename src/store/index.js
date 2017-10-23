@@ -17,9 +17,8 @@ const mutations = {
   DECREMENT (state) {
     state.count--
   },
-  SELECT (state, id) {
-    state.selected = []
-    state.selected.push(getImageById(id))
+  SELECT (state, idArray) {
+    state.selected = idArray.map(getImageById)
   },
   SORT (state, value) {
     state.images = [ ...value ]
@@ -32,8 +31,8 @@ const actions = {
       commit('INCREMENT')
     }, 200)
   },
-  handleSelect (context, id) {
-    context.commit('SELECT', id)
+  handleSelect (context, idArray) {
+    context.commit('SELECT', idArray)
   },
   sortImages (context, value) {
     context.commit('SORT', value)

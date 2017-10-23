@@ -42,8 +42,25 @@ export default {
   },
   methods: {
     select: function (id, event) {
-      console.log(event)
-      this.$store.dispatch('handleSelect', id)
+      var selected = []
+      if (event.metaKey) {
+        selected = this.$store.state.selected.map(function (item) { return item.id })
+        selected.push(id)
+        this.$store.dispatch('handleSelect', selected)
+      } else {
+        if (this.$store.state.selected.length === 1 && event.shiftKey) {
+          var first = this.getImageIndexById(this.$store.state.selected[0].id)
+          var second = this.getImageIndexById(id)
+          var min = Math.min(first, second)
+          var max = Math.max(first, second)
+          for (var i = min; i <= max; i++) {
+            selected.push(this.$store.state.images[i].id)
+          }
+          this.$store.dispatch('handleSelect', selected)
+        } else {
+          this.$store.dispatch('handleSelect', [id])
+        }
+      }
     },
     isSelected: function (thumbnail) {
       if (this.$store.state.selected.indexOf(thumbnail) > -1) {
@@ -51,6 +68,11 @@ export default {
       } else {
         return false
       }
+    },
+    getImageIndexById: function (id) {
+      return this.$store.state.images.map(function (image) {
+        return image.id
+      }).indexOf(id)
     }
   }
 }
