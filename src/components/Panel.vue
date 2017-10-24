@@ -1,11 +1,11 @@
 <template>
   <div class="formPanel actions">
-    <p id="noneSelected" class="formContent">No items selected. Next val: {{ nextVal }}</p>
-    <p id="multiSelected" class="formContent">Multiple items are selected.</p>
-    <form id="singleSelected" class="formContent form-horizontal">+
+    <p v-if="selectedTotal === 0" id="noneSelected" class="formContent">No items selected. Next val: {{ nextVal }}</p>
+    <p v-if="selectedTotal > 1" id="multiSelected" class="formContent">Multiple items are selected.</p>
+    <form v-if="selectedTotal === 1" id="singleSelected" class="formContent form-horizontal">
        <div class="form-group">
           <label class="control-label" for="label">Label</label>
-          <input type="text" name="label" id="label" value="1" class="form-control">
+          <input v-model="form.label  " type="text" name="label" id="label" value="1" class="form-control">
        </div>
        <div class="form-group">
        <label class="control-label" for="pageType">Page Type</label>
@@ -41,6 +41,14 @@ var gen = Lablr.pageLabelGenerator()
 export default {
   name: 'panel',
   computed: {
+    selectedTotal () {
+      return this.$store.state.selected.length
+    },
+    form () {
+      return {
+        label: this.$store.state.selected[0].label
+      }
+    },
     nextVal () {
       return gen.next().value
     }

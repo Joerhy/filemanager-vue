@@ -116,13 +116,13 @@ body {
   border-radius: 4px;
 }
 
-#singleSelected {
+/*#singleSelected {
   display: none;
 }
 
 #multiSelected {
   display: none;
-}
+}*/
 
 .controls {
   position: absolute;

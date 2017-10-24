@@ -22,7 +22,10 @@ const mutations = {
   SELECT (state, imgArray) {
     state.selected = imgArray
   },
-  SORT (state, value) {
+  SORT_IMAGES (state, value) {
+    state.images = [ ...value ]
+  },
+  UPDATE_IMAGES (state, value) {
     state.images = [ ...value ]
   }
 }
@@ -37,7 +40,10 @@ const actions = {
     context.commit('SELECT', imgArray)
   },
   sortImages (context, value) {
-    context.commit('SORT', value)
+    context.commit('SORT_IMAGES', value)
+  },
+  updateImages (context, value) {
+    context.commit('UPDATE_IMAGES', value)
   }
 }
 
