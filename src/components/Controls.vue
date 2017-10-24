@@ -1,6 +1,6 @@
 <template>
   <div class="controls">
-    <div v-if="hidden" id="orderChangedIcon" class="alert alert-info" role="alert">
+    <div v-if="orderChanged" id="orderChangedIcon" class="alert alert-info" role="alert">
       <i class="fa fa-exchange"></i> Page order has changed.
     </div>
     <button id="save_btn" type="button" class="btn btn-lg btn-primary disabled">
@@ -21,7 +21,7 @@ export default {
     orderChanged: function () {
       var ogOrder = JSON.stringify(this.$store.state.ogImages.map(img => img.id))
       var imgOrder = JSON.stringify(this.$store.state.images.map(img => img.id))
-      this.hidden = ogOrder !== imgOrder
+      return ogOrder !== imgOrder
     }
   }
 }
