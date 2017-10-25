@@ -1,7 +1,56 @@
 <template>
   <div class="formPanel actions">
     <p v-if="selectedTotal === 0" id="noneSelected" class="formContent">No items selected. Next val: {{ nextVal }}</p>
-    <p v-if="selectedTotal > 1" id="multiSelected" class="formContent">Multiple items are selected.</p>
+    <!-- Multiple Selected Form-->
+    <div v-if="selectedTotal > 1" id="multiSelected" >
+      <h2>Generate Labels <small>for selected items</small></h2>
+      <form class="formContent form-inline">
+        <div id="preview" class="row"><p class="text-muted">Example: </p></div>
+        <div class="row">
+          <div class="form-group">
+            <label class="control-label" for="unitLabel">Unit Label</label>
+            <input type="text" name="label" id="unitLabel" value="" placeholder="p." class="form-control">
+          </div>
+          <div class="form-group">
+            <label class="control-label" for="startNum">Starting Numeral</label>
+            <input type="text" name="label" id="startNum" value="" placeholder="10" class="form-control">
+          </div>
+          <div class="form-group">
+           <div class="checkbox">
+             <label>
+               <input id="addBrackets" type="checkbox" value="">
+               Add Brackets <a href="#">(?)</a>
+             </label>
+           </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="form-group">
+            <label class="control-label" for="labelMethod">Labeling Method</label>
+            <select id="labelMethod" class="form-control">
+              <option value="paginate">Paginate (Default)</option>
+              <option value="foliate">Foliate</option>
+            </select>
+          </div>
+          <fieldset disabled>
+            <div class="form-group">
+              <label class="control-label" for="frontLabel">Front Label</label>
+              <input type="text" name="frontLabel" id="frontLabel" value="" placeholder="(recto)" class="form-control">
+            </div>
+            <div class="form-group">
+              <label class="control-label" for="backLabel">Back Label</label>
+              <input type="text" name="backLabel" id="backLabel" value="" placeholder="(verso)" class="form-control">
+            </div>
+          </fieldset>
+        </div>
+        <div class="row">
+          <button id="save_btn" type="button" class="btn btn-primary">
+            Apply
+          </button>
+        </div>
+      </form>
+    </div>
+    <!-- Single Selected Form-->
     <form v-if="selectedTotal === 1" id="singleSelected" class="formContent form-horizontal">
        <div class="form-group">
           <label class="control-label" for="label">Label</label>
@@ -80,5 +129,13 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style>
+
+.form-inline fieldset {
+  display: inline-block;
+}
+
+.form-inline .row {
+  margin-top:15px;
+}
 
 </style>
