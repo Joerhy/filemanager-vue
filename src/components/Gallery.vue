@@ -13,7 +13,11 @@
       </div>
     </div>
     <draggable v-model="thumbnails" tag="div" name="list-complete" class="img_gallery">
-        <div @click.capture="select(thumbnail.id, $event)" v-bind:style="{'max-width': thumbPixelWidth + 'px' }" class="thumbnail" v-bind:class="{ selected: isSelected(thumbnail) }" v-for="thumbnail in thumbnails" :key="thumbnail.id">
+        <div @click.capture="select(thumbnail.id, $event)"
+              v-bind:style="{'max-width': thumbPixelWidth + 'px' }"
+              class="thumbnail"
+              v-bind:class="{ hasChanged: hasChanged(thumbnail.id), selected: isSelected(thumbnail) }"
+              v-for="thumbnail in thumbnails" :key="thumbnail.id">
           <img :src="thumbnail.url" class="thumb">
           <div v-bind:style="{'padding': captionPixelPadding + 'px' }" class="caption">
             {{thumbnail.label}}
@@ -98,6 +102,13 @@ export default {
     },
     selectNone: function () {
       this.$store.dispatch('handleSelect', [])
+    },
+    hasChanged: function (id) {
+      if (this.$store.state.changeList.indexOf(id) > -1) {
+        return true
+      } else {
+        return false
+      }
     },
     isSelected: function (thumbnail) {
       if (this.$store.state.selected.indexOf(thumbnail) > -1) {

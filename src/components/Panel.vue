@@ -5,7 +5,7 @@
     <form v-if="selectedTotal === 1" id="singleSelected" class="formContent form-horizontal">
        <div class="form-group">
           <label class="control-label" for="label">Label</label>
-          <input v-model="form.label  " type="text" name="label" id="label" value="1" class="form-control">
+          <input @input="updateSingleLabel($event)" v-model="singleForm.label" type="text" name="label" id="label" value="1" class="form-control">
        </div>
        <div class="form-group">
        <label class="control-label" for="pageType">Page Type</label>
@@ -35,6 +35,7 @@
 </template>
 
 <script>
+
 import Lablr from 'page-label-generator'
 var gen = Lablr.pageLabelGenerator()
 
@@ -44,13 +45,34 @@ export default {
     selectedTotal () {
       return this.$store.state.selected.length
     },
-    form () {
+    singleForm () {
       return {
-        label: this.$store.state.selected[0].label
+        label: this.$store.state.selected[0].label,
+        id: this.$store.state.selected[0].id
       }
     },
     nextVal () {
       return gen.next().value
+    }
+  },
+  methods: {
+    updateSingleLabel () {
+      var changeList = this.$store.state.changeList
+      // changeList.push(this.singleForm.map(form => form.id))
+
+      var images = this.$store.state.images
+      for (let i = 0; i < this.selectedTotal; i++) {
+        var index = this.$store.state.images.map(function (img) {
+          return img.id
+        }).indexOf(this.$store.state.selected[i].id)
+        images[index].label = this.singleForm.label
+
+        if (changeList.indexOf(this.$store.state.selected[i].id) === -1) {
+          changeList.push(this.$store.state.selected[i].id)
+        }
+      }
+      this.$store.dispatch('updateChanges', changeList)
+      this.$store.dispatch('updateImages', images)
     }
   }
 }
