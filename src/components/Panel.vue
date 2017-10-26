@@ -1,25 +1,25 @@
 <template>
   <div class="formPanel actions">
-    <p v-if="selectedTotal === 0" id="noneSelected" class="formContent">No items selected. Next val: {{ nextVal }}</p>
+    <p v-if="selectedTotal === 0" id="noneSelected" class="formContent">No items selected.</p>
     <!-- Multiple Selected Form-->
     <div v-if="selectedTotal > 1" id="multiSelected" >
       <h2>Generate Labels <small>for selected items</small></h2>
       <form class="formContent form-inline">
-        <div id="preview" class="row"><p class="text-muted">Example: </p></div>
+        <!-- <div id="preview" class="row"><p class="text-muted">Example: <em>{{ example }}</em></p></div> -->
         <div class="row">
           <div class="form-group">
             <label class="control-label" for="unitLabel">Unit Label</label>
-            <input type="text" name="label" id="unitLabel" value="" placeholder="p." class="form-control">
+            <input @input="updateMultiLabels()" v-model="labelerOpts.unitLabel" type="text" name="unitLabel" id="unitLabel" value="" placeholder="p." class="form-control">
           </div>
           <div class="form-group">
             <label class="control-label" for="startNum">Starting Numeral</label>
-            <input type="text" name="label" id="startNum" value="" placeholder="10" class="form-control">
+            <input @input="updateMultiLabels()" v-model="labelerOpts.start" type="text" name="startNum" id="startNum" value="" placeholder="10" class="form-control">
           </div>
           <div class="form-group">
            <div class="checkbox">
              <label>
-               <input id="addBrackets" type="checkbox" value="">
-               Add Brackets <a href="#">(?)</a>
+               <input @change="updateMultiLabels()" v-model="labelerOpts.bracket" name="addBrackets" id="addBrackets" type="checkbox" value="">
+               <label for="addBrackets">Add Brackets</label>
              </label>
            </div>
           </div>
@@ -27,38 +27,42 @@
         <div class="row">
           <div class="form-group">
             <label class="control-label" for="labelMethod">Labeling Method</label>
-            <select id="labelMethod" class="form-control">
+            <select @change="updateMultiLabels()" v-model="labelerOpts.method" id="labelMethod" class="form-control">
               <option value="paginate">Paginate (Default)</option>
               <option value="foliate">Foliate</option>
             </select>
           </div>
-          <fieldset disabled>
+        </div>
+        <div v-if="labelerOpts.method === 'foliate'" class="row">
+          <fieldset>
             <div class="form-group">
               <label class="control-label" for="frontLabel">Front Label</label>
-              <input type="text" name="frontLabel" id="frontLabel" value="" placeholder="(recto)" class="form-control">
+              <input @input="updateMultiLabels()" v-model="labelerOpts.frontLabel" type="text" name="frontLabel" id="frontLabel" value="" placeholder="(recto)" class="form-control">
             </div>
             <div class="form-group">
               <label class="control-label" for="backLabel">Back Label</label>
-              <input type="text" name="backLabel" id="backLabel" value="" placeholder="(verso)" class="form-control">
+              <input @input="updateMultiLabels()" v-model="labelerOpts.backLabel" type="text" name="backLabel" id="backLabel" value="" placeholder="(verso)" class="form-control">
+            </div>
+            <div class="form-group">
+              <label class="control-label" for="startWith">Start With</label>
+              <select @change="updateMultiLabels()" v-model="labelerOpts.startWith" id="startWith" class="form-control">
+                <option value="front">Front (Default)</option>
+                <option value="back">Back</option>
+              </select>
             </div>
           </fieldset>
-        </div>
-        <div class="row">
-          <button id="save_btn" type="button" class="btn btn-primary">
-            Apply
-          </button>
         </div>
       </form>
     </div>
     <!-- Single Selected Form-->
-    <form v-if="selectedTotal === 1" id="singleSelected" class="formContent form-horizontal">
-       <div class="form-group">
+      <form v-if="selectedTotal === 1" id="singleSelected" class="formContent form-horizontal">
+        <div class="form-group">
           <label class="control-label" for="label">Label</label>
           <input @input="updateSingleLabel($event)" v-model="singleForm.label" type="text" name="label" id="label" value="1" class="form-control">
-       </div>
-       <div class="form-group">
-       <label class="control-label" for="pageType">Page Type</label>
-          <select id="pageType" class="form-control">
+        </div>
+      <div class="form-group">
+        <label class="control-label" for="pageType">Page Type</label>
+        <select id="pageType" class="form-control">
           <option value="single">Single Page (Default)</option>
           <option value="non-paged">Non-Paged</option>
           <option value="facing">Facing Pages</option>
@@ -86,10 +90,22 @@
 <script>
 
 import Lablr from 'page-label-generator'
-var gen = Lablr.pageLabelGenerator()
 
 export default {
   name: 'panel',
+  data: function () {
+    return {
+      labelerOpts: {
+        'start': '1',
+        'method': 'paginate',
+        'frontLabel': '',
+        'backLabel': '',
+        'startWith': 'front',
+        'unitLabel': 'p. ',
+        'bracket': false
+      }
+    }
+  },
   computed: {
     selectedTotal () {
       return this.$store.state.selected.length
@@ -99,12 +115,12 @@ export default {
         label: this.$store.state.selected[0].label,
         id: this.$store.state.selected[0].id
       }
-    },
-    nextVal () {
-      return gen.next().value
     }
   },
   methods: {
+    isNormalInteger (str) {
+      return /^\+?(0|[1-9]\d*)$/.test(str)
+    },
     updateSingleLabel () {
       var changeList = this.$store.state.changeList
       // changeList.push(this.singleForm.map(form => form.id))
@@ -115,6 +131,24 @@ export default {
           return img.id
         }).indexOf(this.$store.state.selected[i].id)
         images[index].label = this.singleForm.label
+
+        if (changeList.indexOf(this.$store.state.selected[i].id) === -1) {
+          changeList.push(this.$store.state.selected[i].id)
+        }
+      }
+      this.$store.dispatch('updateChanges', changeList)
+      this.$store.dispatch('updateImages', images)
+    },
+    updateMultiLabels () {
+      var changeList = this.$store.state.changeList
+      var images = this.$store.state.images
+      this.labelerOpts.start = this.isNormalInteger(this.labelerOpts.start) ? this.labelerOpts.start - 0 : this.labelerOpts.start
+      var generator = Lablr.pageLabelGenerator(this.labelerOpts)
+      for (let i = 0; i < this.selectedTotal; i++) {
+        var index = this.$store.state.images.map(function (img) {
+          return img.id
+        }).indexOf(this.$store.state.selected[i].id)
+        images[index].label = generator.next().value
 
         if (changeList.indexOf(this.$store.state.selected[i].id) === -1) {
           changeList.push(this.$store.state.selected[i].id)
