@@ -3,7 +3,7 @@
     <div v-if="orderChanged" id="orderChangedIcon" class="alert alert-info" role="alert">
       <i class="fa fa-exchange"></i> Page order has changed.
     </div>
-    <button id="save_btn" type="button" class="btn btn-lg btn-primary disabled">
+    <button @click="save" id="save_btn" type="button" class="btn btn-lg btn-primary" :disabled="isDisabled">
       Save
     </button>
   </div>
@@ -22,6 +22,18 @@ export default {
       var ogOrder = JSON.stringify(this.$store.state.ogImages.map(img => img.id))
       var imgOrder = JSON.stringify(this.$store.state.images.map(img => img.id))
       return ogOrder !== imgOrder
+    },
+    isDisabled: function () {
+      if (this.orderChanged || this.$store.state.changeList.length > 0) {
+        return false
+      } else {
+        return true
+      }
+    }
+  },
+  methods: {
+    save: function () {
+      alert('Changes saved!')
     }
   }
 }
