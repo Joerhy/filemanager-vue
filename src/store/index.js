@@ -1,14 +1,16 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
-import ImageCollection from '../fixtures/images'
+import ImageCollection from '../fixtures/lots_of_images'
 
 Vue.use(Vuex)
 
 const state = {
   count: 0,
-  images: ImageCollection,
+  startPage: ImageCollection.startPage,
+  thumbnail: ImageCollection.thumbnail,
+  images: ImageCollection.images,
   selected: [],
-  ogImages: ImageCollection,
+  ogImages: ImageCollection.images,
   changeList: []
 }
 
@@ -30,6 +32,12 @@ const mutations = {
   },
   UPDATE_IMAGES (state, images) {
     state.images = [ ...images ]
+  },
+  UPDATE_STARTPAGE (state, startPage) {
+    state.startPage = startPage
+  },
+  UPDATE_THUMBNAIL (state, thumbnail) {
+    state.thumbnail = thumbnail
   }
 }
 
@@ -50,6 +58,12 @@ const actions = {
   },
   updateImages (context, images) {
     context.commit('UPDATE_IMAGES', images)
+  },
+  updateStartPage (context, startPage) {
+    context.commit('UPDATE_STARTPAGE', startPage)
+  },
+  updateThumbnail (context, thumbnail) {
+    context.commit('UPDATE_THUMBNAIL', thumbnail)
   }
 }
 

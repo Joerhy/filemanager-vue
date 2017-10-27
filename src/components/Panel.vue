@@ -58,11 +58,11 @@
       <form v-if="selectedTotal === 1" id="singleSelected" class="formContent form-horizontal">
         <div class="form-group">
           <label class="control-label" for="label">Label</label>
-          <input @input="updateSingleLabel($event)" v-model="singleForm.label" type="text" name="label" id="label" value="1" class="form-control">
+          <input @input="updateSingle()" v-model="singleForm.label" type="text" name="label" id="label" value="1" class="form-control">
         </div>
       <div class="form-group">
         <label class="control-label" for="pageType">Page Type</label>
-        <select id="pageType" class="form-control">
+        <select @change="updateSingle()" v-model="singleForm.pageType" id="pageType" class="form-control">
           <option value="single">Single Page (Default)</option>
           <option value="non-paged">Non-Paged</option>
           <option value="facing">Facing Pages</option>
@@ -71,13 +71,13 @@
       <div class="form-group">
         <div class="checkbox">
           <label>
-            <input id="isThumb" type="checkbox" value="">
+            <input @change="updateThumbnail()" v-model="isThumbnail" id="isThumbnail" type="checkbox" value="">
             Set as Thumbnail <a href="#">(?)</a>
           </label>
       </div>
         <div class="checkbox">
           <label>
-            <input id="isStart" type="checkbox" value="">
+            <input @change="updateStartPage()" v-model="isStartPage" id="isStartPage" type="checkbox" value="">
             Set as Start Page <a href="#">(?)</a>
           </label>
         </div>
@@ -110,10 +110,20 @@ export default {
     selectedTotal () {
       return this.$store.state.selected.length
     },
+    isStartPage () {
+      var id = this.$store.state.selected[0].id
+      return this.$store.state.startPage === id
+    },
+    isThumbnail () {
+      var id = this.$store.state.selected[0].id
+      return this.$store.state.thumbnail === id
+    },
     singleForm () {
       return {
         label: this.$store.state.selected[0].label,
-        id: this.$store.state.selected[0].id
+        id: this.$store.state.selected[0].id,
+        pageType: this.$store.state.selected[0].pageType,
+        url: this.$store.state.selected[0].url
       }
     }
   },
@@ -121,21 +131,26 @@ export default {
     isNormalInteger (str) {
       return /^\+?(0|[1-9]\d*)$/.test(str)
     },
-    updateSingleLabel () {
+    updateStartPage () {
+      var startPage = this.$store.state.selected[0].id
+      this.$store.dispatch('updateStartPage', startPage)
+    },
+    updateThumbnail () {
+      var thumbnail = this.$store.state.selected[0].id
+      this.$store.dispatch('updateThumbnail', thumbnail)
+    },
+    updateSingle () {
       var changeList = this.$store.state.changeList
-      // changeList.push(this.singleForm.map(form => form.id))
-
       var images = this.$store.state.images
-      for (let i = 0; i < this.selectedTotal; i++) {
-        var index = this.$store.state.images.map(function (img) {
-          return img.id
-        }).indexOf(this.$store.state.selected[i].id)
-        images[index].label = this.singleForm.label
+      var index = this.$store.state.images.map(function (img) {
+        return img.id
+      }).indexOf(this.$store.state.selected[0].id)
+      images[index] = this.singleForm
 
-        if (changeList.indexOf(this.$store.state.selected[i].id) === -1) {
-          changeList.push(this.$store.state.selected[i].id)
-        }
+      if (changeList.indexOf(this.$store.state.selected[0].id) === -1) {
+        changeList.push(this.$store.state.selected[0].id)
       }
+
       this.$store.dispatch('updateChanges', changeList)
       this.$store.dispatch('updateImages', images)
     },
