@@ -24,6 +24,11 @@ const mutations = {
   SELECT (state, imgArray) {
     state.selected = imgArray
   },
+  SAVE_STATE (state) {
+    state.ogImages = [ ...state.images ]
+    state.changeList = [...[]]
+    state.selected = [...[]]
+  },
   SORT_IMAGES (state, value) {
     state.images = [ ...value ]
   },
@@ -49,6 +54,9 @@ const actions = {
   },
   handleSelect (context, imgArray) {
     context.commit('SELECT', imgArray)
+  },
+  saveState (context) {
+    context.commit('SAVE_STATE')
   },
   sortImages (context, value) {
     context.commit('SORT_IMAGES', value)

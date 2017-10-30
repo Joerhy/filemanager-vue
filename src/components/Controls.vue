@@ -34,6 +34,7 @@ export default {
   methods: {
     save: function () {
       alert('Changes saved!')
+      this.$store.dispatch('saveState')
     }
   }
 }
